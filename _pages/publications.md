@@ -14,7 +14,7 @@ author_profile: true
 
 ## **Published** Papers
 
-(# co-first authors, * corresponding author)
+\# co-first authors, * corresponding author
 
 1. **Xinwei Li<sup>#,*</sup>**,  Jia Tan<sup>#</sup>, Panyu Wang, Hong Liu, Zhangyong Li, Wei Wang<sup>*</sup>. "Anatomically Constrained Squeeze-and-Excitation Graph Attention Network for Cortical Surface Parcellation." Computers in Biology and Medicine, 2022, 140: 105113. 
 2. **Xinwei Li<sup>*</sup>**, Wei Wang, Panyu Wang, Chenru Hao, Zhangyong Li<sup>*</sup>. "Atypical Sulcal Pattern in Boys with Attention‐Deficit/Hyperactivity Disorder." Human brain mapping, 2021, 42(13): 4362-4371. 
