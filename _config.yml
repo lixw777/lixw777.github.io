@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinwei Li / HomePage"
+title                    : "Xinwei Li 李欣蔚"
 title_separator          : "-"
 name                     : &name "Xinwei Li"
 description              : &description "Associate Professor at Chongqing University of Posts and Telecommunications"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7jU0LXoAAAAJ&hl=en&authuser=1"
-  email            :
+  email            : lixinwei@cqupt.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
