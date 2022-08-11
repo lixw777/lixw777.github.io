@@ -1,22 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "发表论文"
     url: /publications/
 
-  - title: "Talks"
+  - title: "科研项目"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "人才培养"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "招生说明"
+    url: /enroll/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "English"
+    url: /english/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
