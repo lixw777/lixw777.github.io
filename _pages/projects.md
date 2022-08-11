@@ -2,7 +2,7 @@
 layout: archive
 title: "Projects"
 permalink: /projects/
-author_profile: false
+author_profile: true
 
 ---
 
@@ -10,7 +10,7 @@ author_profile: false
 
 
 
-##主持项目
+## 主持项目
 
 1. 面向轻度认知障碍准确辅诊的个体形态学脑网络构建方法研究，国家自然科学基金青年科学基金项目，2022/01/01-2024/12/31，国家级，主持
 2. 大数据人工智能肝移植用药指导系统的研发与应用，重庆市技术创新与应用发展重点项目，2022/01/01-2024/12/31，省部级，第二单位主持
