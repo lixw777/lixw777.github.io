@@ -30,4 +30,4 @@ redirect_from:
 - 人工智能
 
 \
-[发表论文](https://lixw777.github.io/publications/) [科研项目](https://lixw777.github.io/projects/) [人才培养](https://lixw777.github.io/supervision/)  [English](https://lixw777.github.io/english/)
+[[发表论文](https://lixw777.github.io/publications/)] [[科研项目](https://lixw777.github.io/projects/)] [[人才培养](https://lixw777.github.io/supervision/)]  [[English](https://lixw777.github.io/english/)]
