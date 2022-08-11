@@ -7,10 +7,7 @@ main:
     url: /projects/    
 
   - title: "人才培养"
-    url: /teaching/    
-    
-  - title: "招生说明"
-    url: /enroll/
+    url: /supervision/    
         
   - title: "English"
     url: /english/
