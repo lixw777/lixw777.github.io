@@ -29,5 +29,5 @@ redirect_from:
 - 医学影像处理
 - 人工智能
 
-## 
+<br/>
 [发表论文](https://lixw777.github.io/publications/) [科研项目](https://lixw777.github.io/projects/) [人才培养](https://lixw777.github.io/supervision/)  [English](https://lixw777.github.io/english/)
