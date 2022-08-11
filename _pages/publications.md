@@ -7,15 +7,20 @@ author_profile: true
 
 ## Submitted Papers 
 
-1. **Xinwei Li**, Hong Liu, Yuanyang Deng, Zhangyong Li, Yuhao Jiang, Deyu Li, Shuyu Li, "Aberrant intra- and inter-network functional connectivity patterns of the anterior and posterior hippocampal networks in Schizophrenia", submitted.
-2. **Xinwei Li**, Hong Liu, Baoqiang Ma, Lei Chu, Xiaoxi Dong, Debin Zeng, Tongtong Che,Xiaoming Jiang, Wei Wang, Shuyu Li, "Syn_SegNet: joint ultra-high-field 7T MRI synthesis for hippocampal subfields segmentaton in routine 3T MRI", submitted.
-3. Dajiang Lei, Tao Zhang, Yue Wu, **Xinwei Li**, Weisheng Li, "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", submitted. 
-4. Zhonghua Zhang, Tian Wang, Shaowei Feng, Yongxin Yang, Chonghong Lai, **Xinwei Li**, Lizhi Shao, Xiaoming Jiang, "Sparse Phase Retrieval using Physics Informed Neural Network for Fourier Ptychographic Microscopy", submitted.
+1. **Xinwei Li**, Hong Liu, Yuanyang Deng, Zhangyong Li, Yuhao Jiang, Deyu Li, Shuyu Li. "Aberrant intra- and inter-network functional connectivity patterns of the anterior and posterior hippocampal networks in Schizophrenia", submitted.
+2. **Xinwei Li**, Hong Liu, Baoqiang Ma, Lei Chu, Xiaoxi Dong, Debin Zeng, Tongtong Che,Xiaoming Jiang, Wei Wang, Shuyu Li. "Syn_SegNet: joint ultra-high-field 7T MRI synthesis for hippocampal subfields segmentaton in routine 3T MRI", submitted.
+3. Dajiang Lei, Tao Zhang, Yue Wu, **Xinwei Li**, Weisheng Li. "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", submitted. 
+4. Zhonghua Zhang, Tian Wang, Shaowei Feng, Yongxin Yang, Chonghong Lai, **Xinwei Li**, Lizhi Shao, Xiaoming Jiang. "Sparse Phase Retrieval using Physics Informed Neural Network for Fourier Ptychographic Microscopy", submitted.
 
-## Journal Papers
+## **Published** Papers
 
-​	<font size=2>\# co-first authors, * corresponding author</font>
+<font size=2>(# co-first authors, * corresponding author)</font>
 
-1. **Xinwei Li<sup>#,*</sup>**,  Jia Tan<sup>#</sup>, Panyu Wang, Hong Liu, Zhangyong Li, Wei Wang<sup>*</sup>, "Anatomically Constrained Squeeze-and-Excitation Graph Attention Network for Cortical Surface Parcellation." *Computers in Biology and Medicine*, 2022, 140: 105113. (IF 2022: 6.698)
-2. 
+1. **Xinwei Li<sup>#,*</sup>**,  Jia Tan<sup>#</sup>, Panyu Wang, Hong Liu, Zhangyong Li, Wei Wang<sup>*</sup>. "Anatomically Constrained Squeeze-and-Excitation Graph Attention Network for Cortical Surface Parcellation." *Computers in Biology and Medicine*, 2022, 140: 105113.
+2. **Xinwei Li<sup>*</sup>**, Wei Wang, Panyu Wang, Chenru Hao, Zhangyong Li<sup>*</sup>. "Atypical Sulcal Pattern in Boys with Attention‐Deficit/Hyperactivity Disorder." *Human brain mapping*, 2021, 42(13): 4362-4371. 
+3. **Xinwei Li<sup>*</sup>**, Yuhao Jiang, Wei Wang, Xiaoxue Liu,  Zhangyong Li<sup>*</sup>. "Brain Morphometric Abnormalities in Boys with Attention‐Deficit/Hyperactivity Disorder Revealed by Sulcal Pits‐Based Analyses." *CNS Neuroscience & Therapeutics*, 2021, 27(3): 299-307. 
+4. Chunde Yang, Panyu Wang, Jia Tan, Qingshui Liu, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis Using Graph Attention Network Based on Spatial-Constrained Sparse Functional Brain Networks." *Computers in Biology and Medicine*, 2021, 139: 104963.
+5. 杨春德, 贾竹, **李欣蔚<sup>*</sup>**. 基于U-Net++的心电信号识别分类研究，*计算机科学*, 2021, 48(10): 121-126.
+6. **Xinwei Li**, Qiongling Li, Xuetong Wang, Deyu Li,  Shuyu Li. "Differential Age-Related Changes in Structural Covariance Networks of Human Anterior and Posterior Hippocampus." *Frontiers in physiology*, 2018, 9: 518.
 
+You can also find my published articles on [Google Scholar](https://scholar.google.com/citations?user=7jU0LXoAAAAJ&hl=zh-CN)
