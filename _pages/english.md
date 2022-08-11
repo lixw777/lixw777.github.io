@@ -1,7 +1,7 @@
 ---
-permalink: /
+layout: archive
 title: "<font color=DarkBlue>About me</font>"
-excerpt: "About me"
+permalink: /english/
 author_profile: true
 ---
 
