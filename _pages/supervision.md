@@ -3,11 +3,12 @@ layout: archive
 title: "Supervision"
 permalink: /supervision/
 author_profile: true
+
 ---
 
 {% include base_path %}
 
-## 研究生招生说明
+## <font color=DodgerBlue>研究生招生说明</font>
 
 面向校内外招收生物医学工程学硕研究生、电子信息（生物医学工程）专硕研究生，欢迎相关专业优秀学生报考，希望你：
 
@@ -17,7 +18,7 @@ author_profile: true
 
 有意向的同学请邮件联系: lixinwei@cqupt.edu.cn
 
-##  科技创新活动
+## <font color=DodgerBlue>科技创新活动</font>
 
 ### 学生项目
 
@@ -35,7 +36,7 @@ author_profile: true
 4. 2020年第三届中青杯全国大学生数学建模竞赛三等奖
 5. 2019年第十六届“挑战杯” 科技作品竞赛重庆赛区特等奖
 
-## 优秀毕业设计
+## <font color=DodgerBlue>优秀毕业设计</font>
 
 1. 2021届优秀本科毕业设计论文校级一等奖（王战阳）
 2. 2020届优秀本科毕业设计论文校级二等奖（陈勇）
