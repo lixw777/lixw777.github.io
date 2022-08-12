@@ -31,7 +31,3 @@ redirect_from:
 
 \
 [[发表论文](https://lixw777.github.io/publications/)] [[科研项目](https://lixw777.github.io/projects/)] [[人才培养](https://lixw777.github.io/supervision/)]  [[English](https://lixw777.github.io/english/)]
-
-\
-            <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-            <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
