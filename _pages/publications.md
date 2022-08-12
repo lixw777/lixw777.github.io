@@ -8,9 +8,9 @@ author_profile: true
 ## <font color=DarkBlue>Submitted Papers</font> 
 
 1. **Xinwei Li**, Hong Liu, Yuanyang Deng, Zhangyong Li, Yuhao Jiang, Deyu Li, Shuyu Li. "Aberrant intra- and inter-network functional connectivity patterns of the anterior and posterior hippocampal networks in Schizophrenia", submitted.
-2. **Xinwei Li**, Hong Liu, Baoqiang Ma, Lei Chu, Xiaoxi Dong, Debin Zeng, Tongtong Che,Xiaoming Jiang, Wei Wang, Shuyu Li. "Syn_SegNet: joint ultra-high-field 7T MRI synthesis for hippocampal subfields segmentaton in routine 3T MRI", submitted.
+2. **Xinwei Li**, Hong Liu, Baoqiang Ma, Lei Chu, Xiaoxi Dong, Debin Zeng, Tongtong Che, Xiaoming Jiang, Wei Wang, Shuyu Li. "Syn_SegNet: joint ultra-high-field 7T MRI synthesis for hippocampal subfields segmentaton in routine 3T MRI", submitted.
 3. Dajiang Lei, Tao Zhang, Yue Wu, **Xinwei Li**, Weisheng Li. "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", submitted. 
-4. Zhonghua Zhang, Tian Wang, Shaowei Feng, Yongxin Yang, Chonghong Lai, **Xinwei Li**, Lizhi Shao, Xiaoming Jiang. "Sparse Phase Retrieval using Physics Informed Neural Network for Fourier Ptychographic Microscopy", submitted.
+4. Zhonghua Zhang, Tian Wang, Shaowei Feng, Yongxin Yang, Chunhong Lai, **Xinwei Li**, Lizhi Shao, Xiaoming Jiang. "Sparse Phase Retrieval using Physics Informed Neural Network for Fourier Ptychographic Microscopy", submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
