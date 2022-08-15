@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "个人主页"
+    url: /homepage/
+    
   - title: "发表论文"
     url: /publications/
 
@@ -9,6 +12,5 @@ main:
   - title: "人才培养"
     url: /supervision/    
         
-  - title: "English"
-    url: /english/
+
     
