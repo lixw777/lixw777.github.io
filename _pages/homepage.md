@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "<font color=DarkBlue>个人简介</font>"
+permalink: /homepage/
+author_profile: true
+---
+
 李欣蔚（1990-），副教授，硕士生导师，于北京航空航天大学获得工学学士和博士学位，曾赴美国伊利诺伊大学香槟分校交流学习。现为重庆邮电大学生物信息学院教师，重庆市医用电子与信息技术工程研究中心成员，重庆邮电大学高等科学研究院成员。主要从事计算神经科学、医学影像处理、人工智能与医学交叉领域的研究。在Human Brain Mapping、Computers in Biology and Medicine等具有国际影响力的期刊和会议上发表SCI/EI论文近30篇，其中Q1、Q2区SCI论文18篇，第一/通讯作者13篇。相关研究成果得到了国内外同行的广泛关注，被Nature Reviews Neuroscience、Trends in Neurosciences等高影响力杂志引用并得到正面评价；先后主持国家自然科学基金青年项目、重庆市科技局重点项目子项、中国博士后科学基金面上项目、重庆市教委项目、重庆市人社局项目等5项国家级/省部级项目，并作为核心成员参与国家自然科学基金优秀青年基金项目在内的5项国家级项目；担任多个国际知名期刊审稿人，系国家自然科学基金委函评专家。
 
 ## <font color=DarkBlue>工作经历</font>
