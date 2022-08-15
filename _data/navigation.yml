@@ -10,7 +10,9 @@ main:
     url: /projects/    
 
   - title: "人才培养"
-    url: /supervision/    
-        
+    url: /supervision/
+    
+  - title: "其他"
+  url: /others/      
 
     
