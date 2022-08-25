@@ -17,11 +17,6 @@ author_profile: true
 
 <h2><font color=DarkBlue>照片</font></h2>
 
-<tr>
-<td align="center"><img src="images/graduate1.jpg" width="200px" > <br />
-  2022毕业照</td>
-<td align="center"><img src="images/graduate1.jpg" width="200px" > <br />
-  2021毕业照</td>
-<td align="center"><img src="images/xibu.jpg" width="200px" > <br />
-  系部教师合照</td>
-</tr>  
+<img src="images/graduate1.jpg" width="200px" > 
+<img src="images/graduate2.jpg" width="200px" > 
+<img src="images/xibu.jpg" width="200px" >
