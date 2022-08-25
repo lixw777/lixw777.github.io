@@ -7,9 +7,11 @@ author_profile: true
 
 <h2><font color=DarkBlue>照片</font></h2>
 
-<img src="/images/graduate1.jpg" >
+<img src="/images/graduate1.jpg" width="30%">
 
-<img src="/images/graduate2.jpg" >
+<img src="/images/graduate2.jpg" width="30%">
 
-<img src='/images/500x300.png'>
+<img src="/images/graduate3.jpg" width="30%">
+
+
 
