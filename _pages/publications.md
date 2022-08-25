@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+\# co-first authors, * corresponding author  
+Publication Years: [2022](#jump2022)、[2021](#jump2021)、[2020](#jump2020)、[2019](#jump2019)、[2018](#jump2018)、[2016](#jump2016)、[2015](#jump2015)、[2013](#jump2013)
+
 ## <font color=DarkBlue>Submitted Papers</font> 
 
 1. **Xinwei Li**, Hong Liu, Yuanyang Deng, Zhangyong Li, Yuhao Jiang, Deyu Li, Shuyu Li. "Aberrant intra- and inter-network functional connectivity patterns of the anterior and posterior hippocampal networks in Schizophrenia", submitted.
@@ -13,9 +16,6 @@ author_profile: true
 4. Zhonghua Zhang, Tian Wang, Shaowei Feng, Yongxin Yang, Chunhong Lai, **Xinwei Li**, Lizhi Shao, Xiaoming Jiang. "Sparse Phase Retrieval using Physics Informed Neural Network for Fourier Ptychographic Microscopy", Optics Letters, accepted.
 
 ## <font color=DarkBlue>Published Papers</font>
-
-\# co-first authors, * corresponding author  
-Publication Years: [2022](#jump2022)、[2021](#jump2021)、[2020](#jump2020)、[2019](#jump2019)、[2018](#jump2018)、[2016](#jump2016)、[2015](#jump2015)、[2013](#jump2013)
 
 ### <span id="jump2022">2022</span>
 
