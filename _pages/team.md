@@ -9,7 +9,6 @@ author_profile: true
 
 <h2><font color=DarkBlue>照片</font></h2>
 
-<img src="images/graduate1.jpg" width="200px"> 
-<img src="images/graduate2.jpg" width="200px"> 
-<img src="images/xibu.jpg" width="200px">
-
+<img src="images/graduate1.jpg" width="33%"> 
+<img src="images/graduate2.jpg" width="33%"> 
+<img src="images/xibu.jpg" width="33%">
