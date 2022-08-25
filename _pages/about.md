@@ -36,4 +36,4 @@ I am looking for highly-motivated students with solid mathematical background or
 Please see my [Google Scholar](https://scholar.google.com/citations?user=7jU0LXoAAAAJ) or [here](https://lixw777.github.io/publications/).
 
 ## <font color=DarkBlue>中文链接</font>
-[[个人主页](https://lixw777.github.io/homepage/)] [[发表论文](https://lixw777.github.io/publications/)] [[科研项目](https://lixw777.github.io/projects/)] [[人才培养](https://lixw777.github.io/supervision/)]
+[[个人主页](https://lixw777.github.io/homepage/)] [[发表论文](https://lixw777.github.io/publications/)] [[科研项目](https://lixw777.github.io/projects/)] [[人才培养](https://lixw777.github.io/supervision/)] [[研究团队](https://lixw777.github.io/team/)]
