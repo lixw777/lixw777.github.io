@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-```html
 <img src="images/xibu.jpg" title="xibu" height="50%" width="50%">
-```
 
 ## <font color=DarkBlue>照片库</font>
 
