@@ -7,13 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-
+ <img src="images/graduate1.jpg" width = "300" height = "200" alt="2022年毕业照" align=center />
 
 ## <font color=DarkBlue>照片库</font>
 
-```html
- <img src="images/graduate1.jpg" width = "300" height = "200" alt="2022年毕业照" align=center />2022年毕业照
-```
+2022年毕业照
 
 ![Aaron Swartz](https://raw.githubusercontent.com/lixw777/lixw777.github.io/master/images/graduate1.jpg)
 
