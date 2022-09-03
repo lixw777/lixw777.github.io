@@ -27,10 +27,10 @@ Publication Years: [2022](#jump2022), [2021](#jump2021), [2020](#jump2020), [201
 1. **Xinwei Li<sup>*</sup>**, Wei Wang, Panyu Wang, Chenru Hao, Zhangyong Li<sup>*</sup>. "Atypical Sulcal Pattern in Boys with Attention‐Deficit/Hyperactivity Disorder." Human brain mapping, 2021, 42(13): 4362-4371. (IF = 5.399)
 2. **Xinwei Li<sup>*</sup>**, Yuhao Jiang, Wei Wang, Xiaoxue Liu,  Zhangyong Li<sup>*</sup>. "Brain Morphometric Abnormalities in Boys with Attention‐Deficit/Hyperactivity Disorder Revealed by Sulcal Pits‐Based Analyses." CNS Neuroscience & Therapeutics, 2021, 27(3): 299-307. (IF = 7.035)
 3. Chunde Yang, Panyu Wang, Jia Tan, Qingshui Liu, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis Using Graph Attention Network Based on Spatial-Constrained Sparse Functional Brain Networks." Computers in Biology and Medicine, 2021, 139: 104963. (IF = 6.698)
-4. Chunde Yang, Qingshui Liu, Zhongyong Li, Wei Wang, **Xinwei Li<sup>*</sup>**. "End-to-end bone age assessment based on Attentional Region Localization." Journal of Physics: Conference Series. IOP Publishing, 2021, 1771(1): 012007.
+4. Chunde Yang, Qingshui Liu, Zhongyong Li, Wei Wang, **Xinwei Li<sup>*</sup>**. "End-to-end bone age assessment based on Attentional Region Localization." 2020 International Conference on Artificial Intelligence and Cloud Computing, Journal of Physics: Conference Series. IOP Publishing, 2021, 1771(1): 012007.
 5. 杨春德, 贾竹, **李欣蔚<sup>*</sup>**. "基于U-Net++的心电信号识别分类研究"，计算机科学, 2021, 48(10): 121-126. 
 6. 王伟, 胡涛, **李欣蔚<sup>*</sup>**, 沈思婉, 姜小明, 刘峻源. "白细胞图像超分辨率重建研究." 计算机科学, 2021, 48(4): 164-168.
-7. Xiaoxue Liu, **Xinwei Li**, Wei Zhang, Peng Ran, Bingyu Zhang, Zhangyong Li<sup>*</sup>. "Weakly supervised mitosis detection using ellipse label on attention Mask R-CNN." The 2nd International Conference on Computing and Data Science. 2021.
+7. Xiaoxue Liu, **Xinwei Li**, Wei Zhang, Peng Ran, Bingyu Zhang, Zhangyong Li<sup>*</sup>. "Weakly supervised mitosis detection using ellipse label on attention Mask R-CNN." The 2nd International Conference on Computing and Data Science. January 28–30, 2021, 2021, 34:1-7.
 
 ### <span id="jump2020">2020</span>
 
