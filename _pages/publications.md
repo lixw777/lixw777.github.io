@@ -19,7 +19,7 @@ Publication Years: [2022](#jump2022), [2021](#jump2021), [2020](#jump2020), [201
 ### <span id="jump2022">2022</span>
 
 1. **Xinwei Li<sup>#,*</sup>**,  Jia Tan<sup>#</sup>, Panyu Wang, Hong Liu, Zhangyong Li, Wei Wang<sup>*</sup>. "Anatomically Constrained Squeeze-and-Excitation Graph Attention Network for Cortical Surface Parcellation." Computers in Biology and Medicine, 2022, 140: 105113. (IF = 6.698)
-2. Zhonghua Zhang, Tian Wang, Shaowei Feng, Yongxin Yang, Chunhong Lai, **Xinwei Li**, Lizhi Shao<sup>*</sup>, Xiaoming Jiang<sup>\*</sup>. "Sparse Phase Retrieval using Physics Informed Neural Network for Fourier Ptychographic Microscopy", Optics Letters, 2022, accepted. (IF = 3.560)
+2. Zhonghua Zhang, Tian Wang, Shaowei Feng, Yongxin Yang, Chunhong Lai, **Xinwei Li**, Lizhi Shao<sup>*</sup>, Xiaoming Jiang<sup>\*</sup>. "Sparse Phase Retrieval using Physics Informed Neural Network for Fourier Ptychographic Microscopy", Optics Letters, 2022, 47(19): 4909-4912. (IF = 3.560)
 3. 吴燃, 唐清垚, 姜小明, **李欣蔚**, 李章勇<sup>*</sup>. "心电成分的多核尺度卷积神经网络分类算法研究." 重庆邮电大学学报 (自然科学版), 2022, 34(2): 243- 249.
 
 ### <span id="jump2021">2021</span>
