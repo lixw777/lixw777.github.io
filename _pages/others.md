@@ -13,7 +13,7 @@ author_profile: true
 | [重庆市科委](http://kjj.cq.gov.cn/)                          | [重庆市教委](http://jw.cq.gov.cn/)                           | [重庆市人社局](http://rlsbj.cq.gov.cn/)            |
 | [中国博士后基金](https://jj.chinapostdoctor.org.cn/website/index.html) | [重庆博士后基金](https://auth.cq.gov.cn:81/sso/login?utype=0&redirect=istrue) | [重庆市卫健委](http://wsjkw.cq.gov.cn/)            |
 | [Google学术](https://scholar.google.com/)                    | [百度学术](https://xueshu.baidu.com/)                        | [Library Genesis](http://libgen.rs/)               |
-| [国家知识产权局](https://www.cnipa.gov.cn/)                  | [专利检索](https://cprs.patentstar.com.cn/Search/Index)      |                                                    |
+| [国家知识产权局](https://www.cnipa.gov.cn/)                  | [专利检索](https://cprs.patentstar.com.cn/Search/Index)      | [重庆市科协](http://www.cqast.cn/)                 |
 | [学术短语](https://www.phrasebank.manchester.ac.uk/)         | [Linggle词组搭配](https://linggle.com/)                      | [Quillbot同意改写](https://quillbot.com/)          |
 
 ## <font color=DarkBlue>本站访问地图</font>
