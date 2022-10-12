@@ -22,7 +22,6 @@ author_profile: true
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- |
 | [Preprocessed Connectomes Project](http://preprocessed-connectomes-project.org/) | [HBN](https://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/) | [ADNI](https://adni.loni.usc.edu/)       |
 | [openfmri](https://openfmri.org/)                            | [openneuro](https://openneuro.org/)                          | [schizconnect](http://schizconnect.org/) |
-|                                                              |                                                              |                                          |
 
 
 
