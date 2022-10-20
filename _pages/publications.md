@@ -12,7 +12,7 @@ Publication Years: [2022](#jump2022), [2021](#jump2021), [2020](#jump2020), [201
 
 1. **Xinwei Li**, Hong Liu, Yuanyang Deng, Zhangyong Li, Yuhao Jiang, Deyu Li, Shuyu Li<sup>*</sup>. "Aberrant intra- and inter-network functional connectivity patterns of the anterior and posterior hippocampal networks in Schizophrenia", submitted.
 2. **Xinwei Li**<sup>#</sup>, Hong Liu<sup>#</sup>, Baoqiang Ma, Lei Chu, Xiaoxi Dong, Debin Zeng, Tongtong Che, Linjin Wang, Xiaoming Jiang, Wei Wang, Shuyu Li<sup>*</sup>. "Syn_SegNet: A joint deep neural network for ultrahigh-ﬁeld 7T MRI synthesis and hippocampal subﬁeld segmentation in routine 3T MRI", submitted.
-3. Dajiang Lei, Tao Zhang, Yue Wu, **Xinwei Li<sup>*</sup>**, Weisheng Li. "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", submitted. 
+3. Dajiang Lei, Tao Zhang, Yue Wu, Weisheng Li, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", submitted. 
 
 ## <font color=DarkBlue>Published Papers</font>
 
