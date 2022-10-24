@@ -23,6 +23,15 @@ author_profile: true
 | [Preprocessed Connectomes Project](http://preprocessed-connectomes-project.org/) | [HBN](https://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/) | [ADNI](https://adni.loni.usc.edu/)       |
 | [openfmri](https://openfmri.org/)                            | [openneuro](https://openneuro.org/)                          | [schizconnect](http://schizconnect.org/) |
 
+## <font color=DarkBlue>会议</font>
+
+| 计算视觉 | IEEE CVPR、IEEE ICCV、ECCV |
+| -------- | -------------------------- |
+| 机器学习 | NeurIPS、ICML、ICLR        |
+| 医学影像 | MICCAI、OHBM               |
+| 人工智能 | IJCAI、AAAI                |
+| 数据挖掘 | SIGKDD、SIGMOD、VLDB       |
+
 
 
 ## <font color=DarkBlue>本站访问地图</font>
