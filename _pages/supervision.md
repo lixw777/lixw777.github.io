@@ -42,3 +42,7 @@ author_profile: true
 2. 2021届优秀本科毕业设计论文校级一等奖（王战阳）
 3. 2020届优秀本科毕业设计论文校级二等奖（陈勇）
 4. 2019届优秀本科毕业设计论文校级二等奖（杜文雅）
+
+## <font color=DarkBlue>课题组照片</font>
+
+![avatar](/images/graduate1.jpg)
