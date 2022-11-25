@@ -3,7 +3,7 @@ main:
   - title: "个人主页"
     url: /homepage/
     
-  - title: "发表论文"
+  - title: "科研论文"
     url: /publications/
 
   - title: "科研项目"
@@ -11,6 +11,9 @@ main:
 
   - title: "人才培养"
     url: /supervision/
+
+  - title: "科研团队"
+    url: /team/
 
   - title: "其他"
     url: /others/      
