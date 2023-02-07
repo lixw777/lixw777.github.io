@@ -16,7 +16,7 @@ Publication Years: [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [202
 
 ## <font color=DarkBlue>Published Papers</font>
 
-###<span id="jump2022">2023</span>
+###<span id="jump2023">2023</span>
 
 1. Zhangyong Li<sup>#</sup> , Wang Chen<sup>#</sup>, Yong Chen, Yang Ju, Zhengjun Hou, **Xinwei Li<sup>*</sup>**, Yuhao Jiang<sup>*</sup>. "Bone age assessment based on deep neural networks with anotation-free cascaded critical bone region extraction", Frontiers in Artificial Intelligence, 2023, 6.
 
