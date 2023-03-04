@@ -13,8 +13,8 @@ Publication Years: [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [202
 
 ## <font color=DarkBlue>Submitted Papers</font> 
 
-2. **Xinwei Li**<sup>#</sup>, Hong Liu<sup>#</sup>, Baoqiang Ma, Lei Chu, Xiaoxi Dong, Debin Zeng, Tongtong Che, Linjin Wang, Xiaoming Jiang, Wei Wang, Jun Hu, Shuyu Li<sup>*</sup>. "Syn_SegNet: A joint deep neural network for ultrahigh-ﬁeld 7T MRI synthesis and hippocampal subﬁeld segmentation in routine 3T MRI", submitted.
-3. Dajiang Lei, Tao Zhang, Yue Wu, Weisheng Li, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", submitted. 
+2. **Xinwei Li**<sup>#</sup>, Hong Liu<sup>#</sup>, Baoqiang Ma, Lei Chu, Xiaoxi Dong, Debin Zeng, Tongtong Che, Linjin Wang, Xiaoming Jiang, Wei Wang, Jun Hu, Shuyu Li<sup>*</sup>. "Syn_SegNet: A joint deep neural network for ultrahigh-ﬁeld 7T MRI synthesis and hippocampal subﬁeld segmentation in routine 3T MRI", In revision.
+3. Dajiang Lei, Tao Zhang, Yue Wu, Weisheng Li, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", In revision. 
 
 ## <font color=DarkBlue>Published Papers</font>
 
