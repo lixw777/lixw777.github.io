@@ -12,6 +12,9 @@ main:
   - title: "人才培养"
     url: /supervision/
 
+  - title: "教研教改"
+    url: /teaching/
+
   - title: "科研团队"
     url: /team/
 
