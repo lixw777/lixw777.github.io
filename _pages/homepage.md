@@ -32,18 +32,12 @@ author_profile: true
 
 ## <font color=DarkBlue>主要学术及社会兼职</font>
 
-- 重庆市数字医学学会理事
+重庆市数字医学学会理事
+重庆市“生命信息与支持研究生导师团队”核心成员
+中国生物医学工程学会人工智能分会会员
+Biomedical Engineering Communications青年编委
+国家自然科学基金委函评专家
+重庆德方信息技术有限公司医疗器械研发技术指导专家
+重庆邮电大学“攀登先锋·优秀研究生导师团队”核心成员
+Neuroimage, IEEE JBHI等多个国际知名期刊审稿人
 
-- 重庆市“生命信息与支持研究生导师团队”核心成员
-
-- 中国生物医学工程学会人工智能分会会员
-
-- Biomedical Engineering Communications青年编委
-
-- 国家自然科学基金委函评专家
-
-- 重庆德方信息技术有限公司医疗器械研发技术指导专家
-
-- 重庆邮电大学“攀登先锋·优秀研究生导师团队”核心成员
-
-- Neuroimage, IEEE JBHI等多个国际知名期刊审稿人
