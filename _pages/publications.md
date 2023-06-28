@@ -19,19 +19,19 @@ Publication Years: [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [202
 
 ### <span id="jump2023">2023</span>
 
-1. **Xinwei Li**, Hong Liu, Yuanyang Deng, Zhangyong Li, Yuhao Jiang, Deyu Li<sup>*</sup>,  Shuyu Li<sup>\*</sup>. "Aberrant intra- and inter-network functional connectivity patterns of the anterior and posterior hippocampal networks in Schizophrenia", CNS Neuroscience & Therapeutics, 2023. (SCI一区TOP，IF = 7.035)
-2. Dajiang Lei, Tao Zhang, Yue Wu, Weisheng Li, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", Medical & Biological Engineering & Computing, 2023. (SCI, IF = 3.079) 
+1. **Xinwei Li**, Hong Liu, Yuanyang Deng, Zhangyong Li, Yuhao Jiang, Deyu Li<sup>*</sup>,  Shuyu Li<sup>\*</sup>. "Aberrant intra- and inter-network functional connectivity patterns of the anterior and posterior hippocampal networks in Schizophrenia", CNS Neuroscience & Therapeutics, 2023. (SCI一区TOP，IF = 5.5)
+2. Dajiang Lei, Tao Zhang, Yue Wu, Weisheng Li, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", Medical & Biological Engineering & Computing, 2023. (SCI, IF = 3.2) 
 3. Zhangyong Li<sup>#</sup> , Wang Chen<sup>#</sup>, Yong Chen, Yang Ju, Zhengjun Hou, **Xinwei Li<sup>*</sup>**, Yuhao Jiang<sup>*</sup>. "Bone age assessment based on deep neural networks with annotation-free cascaded critical bone region extraction", Frontiers in Artificial Intelligence, 2023, 6. (SCI)
 
 ### <span id="jump2022">2022</span>
 
-1. **Xinwei Li<sup>#,*</sup>**,  Jia Tan<sup>#</sup>, Panyu Wang, Hong Liu, Zhangyong Li, Wei Wang<sup>*</sup>. "Anatomically Constrained Squeeze-and-Excitation Graph Attention Network for Cortical Surface Parcellation." Computers in Biology and Medicine, 2022, 140: 105113. (SCI一区，IF = 6.698)
-2. Zhonghua Zhang, Tian Wang, Shaowei Feng, Yongxin Yang, Chunhong Lai, **Xinwei Li**, Lizhi Shao, Xiaoming Jiang<sup>\*</sup>. "Sparse Phase Retrieval using Physics Informed Neural Network for Fourier Ptychographic Microscopy", Optics Letters, 2022, 47(19): 4909-4912. (SCI二区，IF = 3.560)
+1. **Xinwei Li<sup>#,*</sup>**,  Jia Tan<sup>#</sup>, Panyu Wang, Hong Liu, Zhangyong Li, Wei Wang<sup>*</sup>. "Anatomically Constrained Squeeze-and-Excitation Graph Attention Network for Cortical Surface Parcellation." Computers in Biology and Medicine, 2022, 140: 105113. (SCI一区，IF = 7.7)
+2. Zhonghua Zhang, Tian Wang, Shaowei Feng, Yongxin Yang, Chunhong Lai, **Xinwei Li**, Lizhi Shao, Xiaoming Jiang<sup>\*</sup>. "Sparse Phase Retrieval using Physics Informed Neural Network for Fourier Ptychographic Microscopy", Optics Letters, 2022, 47(19): 4909-4912. (SCI二区，IF = 3.6)
 3. 吴燃, 唐清垚, 姜小明, **李欣蔚**, 李章勇<sup>*</sup>. "心电成分的多核尺度卷积神经网络分类算法研究." 重庆邮电大学学报 (自然科学版), 2022, 34(2): 243- 249.
 
 ### <span id="jump2021">2021</span>
 
-1. **Xinwei Li<sup>*</sup>**, Wei Wang, Panyu Wang, Chenru Hao, Zhangyong Li<sup>*</sup>. "Atypical Sulcal Pattern in Boys with Attention‐Deficit/Hyperactivity Disorder." Human brain mapping, 2021, 42(13): 4362-4371. (SCI二区TOP，IF = 5.399)
+1. **Xinwei Li<sup>*</sup>**, Wei Wang, Panyu Wang, Chenru Hao, Zhangyong Li<sup>*</sup>. "Atypical Sulcal Pattern in Boys with Attention‐Deficit/Hyperactivity Disorder." Human brain mapping, 2021, 42(13): 4362-4371.  (SCI二区TOP，IF = 5.399)
 2. **Xinwei Li<sup>*</sup>**, Yuhao Jiang, Wei Wang, Xiaoxue Liu,  Zhangyong Li<sup>*</sup>. "Brain Morphometric Abnormalities in Boys with Attention‐Deficit/Hyperactivity Disorder Revealed by Sulcal Pits‐Based Analyses." CNS Neuroscience & Therapeutics, 2021, 27(3): 299-307. (SCI一区TOP，IF = 7.035)
 3. Chunde Yang, Panyu Wang, Jia Tan, Qingshui Liu, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis Using Graph Attention Network Based on Spatial-Constrained Sparse Functional Brain Networks." Computers in Biology and Medicine, 2021, 139: 104963. (SCI一区，IF = 6.698)
 4. Chunde Yang, Qingshui Liu, Zhongyong Li, Wei Wang, **Xinwei Li<sup>*</sup>**. "End-to-end bone age assessment based on Attentional Region Localization." 2020 International Conference on Artificial Intelligence and Cloud Computing, Journal of Physics: Conference Series. IOP Publishing, 2021, 1771(1): 012007. (EI会议)
