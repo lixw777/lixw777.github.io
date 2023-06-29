@@ -21,7 +21,7 @@ Publication Years: [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [202
 
 1. **Xinwei Li**, Hong Liu, Yuanyang Deng, Zhangyong Li, Yuhao Jiang, Deyu Li<sup>*</sup>,  Shuyu Li<sup>\*</sup>. "Aberrant intra- and inter-network functional connectivity patterns of the anterior and posterior hippocampal networks in Schizophrenia", CNS Neuroscience & Therapeutics, 2023. (SCI一区TOP，IF = 5.5)
 2. Dajiang Lei, Tao Zhang, Yue Wu, Weisheng Li, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", Medical & Biological Engineering & Computing, 2023. (SCI, IF = 3.2) 
-3. Zhangyong Li<sup>#</sup> , Wang Chen<sup>#</sup>, Yong Chen, Yang Ju, Zhengjun Hou, **Xinwei Li<sup>*</sup>**, Yuhao Jiang<sup>*</sup>. "Bone age assessment based on deep neural networks with annotation-free cascaded critical bone region extraction", Frontiers in Artificial Intelligence, 2023, 6. (SCI)
+3. Zhangyong Li<sup>#</sup> , Wang Chen<sup>#</sup>, Yong Chen, Yang Ju, Zhengjun Hou, **Xinwei Li<sup>*</sup>**, Yuhao Jiang<sup>*</sup>. "Bone age assessment based on deep neural networks with annotation-free cascaded critical bone region extraction", Frontiers in Artificial Intelligence, 2023, 6. (SCI, IF = 4.0)
 
 ### <span id="jump2022">2022</span>
 
