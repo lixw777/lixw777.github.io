@@ -14,6 +14,8 @@ Publication Years: [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [202
 ## <font color=DarkBlue>Submitted Papers</font> 
 
 1. **Xinwei Li**<sup>#</sup>, Hong Liu<sup>#</sup>, Baoqiang Ma, Lei Chu, Xiaoxi Dong, Debin Zeng, Tongtong Che, Linjin Wang, Xiaoming Jiang, Wei Wang, Jun Hu, Shuyu Li<sup>*</sup>. "Syn_SegNet: A joint deep neural network for ultrahigh-ﬁeld 7T MRI synthesis and hippocampal subﬁeld segmentation in routine 3T MRI", In revision.
+2. Yuanyang Deng, Xuesi Liu, Rui Nie, Zhangyong Li, Yang Li, **Xinwei Li<sup>*</sup>**, Hehua Zhang<sup>\*</sup>. “Enhancing Intertrochanteric Fracture Subtype Classification: An End-to-End Study Using Faster R-CNN Object Detection Algorithm”, Submitted.
+3. Yanping Liu, Yang Jiao, Qihui Fan, **Xinwei Li**, Zhichao Liu, Jun Hu, Jianwei Shuai<sup>*</sup>, Zhangyong Li<sup>\*</sup>. "Morphological entropy encodes cellular migration strategies on multiple length scales", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
