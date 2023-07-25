@@ -31,12 +31,5 @@ author_profile: true
 ## <font color=DarkBlue>研究方向</font>
 
 - 脑科学
-
 - 医学影像处理
-
 - 人工智能
-
-  
-
-![avatar](/images/PersonalInfo.png)
-
