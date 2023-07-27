@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Xinwei Li. I am an associate professor at the School of Bioinformatics, Chongqing University of Posts and Telecommunications, Chongqing, China. I received my B.Eng. and Ph.D. degrees from Beihang University. I was invited as a visiting student at the Beckman Institute, University of Illinois Urbana-Champaign, USA.
+Hi, I am Xinwei Li. I am a professor at the School of Bioinformatics, Chongqing University of Posts and Telecommunications, Chongqing, China. I received my B.Eng. and Ph.D. degrees from Beihang University. I was invited as a visiting student at the Beckman Institute, University of Illinois Urbana-Champaign, USA.
 
 I am looking for highly-motivated students with solid mathematical background or proficient coding skills. If you are interested in working with me, please send me an email: lixinwei@cqupt.edu.cn. Thanks!
 
 ## <font color=DarkBlue>Employment</font>
 
+- 2023.01-Present, Wenfeng Professor, School of Bioinformatics, Chongqing University of Posts and
+  Telecommunications, China
 - 2021.12–Present, Associate Professor, School of Bioinformatics, Chongqing University of Posts and
   Telecommunications, China
 - 2018.04–2021.12, Assistant Professor, School of Bioinformatics, Chongqing University of Posts and
