@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinwei Li"
 title_separator          : "-"
 name                     : &name "Xinwei Li"
-description              : &description "重庆邮电大学 副教授"
+description              : &description "重庆邮电大学 文峰教授"
 url                      : https://lixw777.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lixw777.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "李欣蔚 (Xinwei Li)"
   avatar           : "Xinwei_Li.jpg"
-  bio              : "副教授 硕导"
+  bio              : "文峰教授 硕导"
   location         : "重庆邮电大学"
   employer         :
   pubmed           : 
