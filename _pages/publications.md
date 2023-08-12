@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-发表论文共计33篇，其中SCI论文22篇，第一/通讯作者16篇（还处于数篇数阶段，方便自我评估，见笑😅）。相关研究成果得到了国内外同行的广泛关注，被Nature Reviews Neuroscience、Trends in Neurosciences等国际顶级杂志引用并得到并得到院士Karl Friston教授、院士Edward Bullmore教授、杰青贺永教授等多位知名学者的正面评价。
+发表论文共计34篇，其中SCI论文23篇，第一/通讯作者17篇（还处于数篇数阶段，方便自我评估，见笑😅）。相关研究成果得到了国内外同行的广泛关注，被Nature Reviews Neuroscience、Trends in Neurosciences等国际顶级杂志引用并得到并得到院士Karl Friston教授、院士Edward Bullmore教授、杰青贺永教授等多位知名学者的正面评价。
 
 Publication Years: [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [2020](#jump2020), [2019](#jump2019), [2018](#jump2018), [2016](#jump2016), [2015](#jump2015), [2013](#jump2013)
 
