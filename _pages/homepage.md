@@ -45,5 +45,3 @@ author_profile: true
 - 重庆市课程思政教学名师
 - 北京航空航天大学重庆校友会理事
 - 重庆邮电大学文峰青年百人
-
-<font color=DarkBlue>[重庆邮电大学官方个人主页](https://faculty.cqupt.edu.cn/lixinwei/zh_CN/index.htm)</font>
