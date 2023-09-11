@@ -33,7 +33,7 @@ author_profile: true
 - 医学影像处理
 - 人工智能
 
-##<font color=DarkBlue>学术/社会兼职</font>
+## <font color=DarkBlue>学术/社会兼职</font>
 
 - 重庆市数字医学学会理事
 
