@@ -36,23 +36,14 @@ author_profile: true
 ## <font color=DarkBlue>学术/社会兼职</font>
 
 - 重庆市数字医学学会理事
-
 - Biomedical Engineering Communications青年编委
-
 - Neuroimage, IEEE JBHI等多个国际知名期刊审稿人
-
 - 国家自然基金委员会函评专家
-
 - 企业医疗器械研发技术指导专家
-
 - 重庆市生命信息与支持研究生导师团队骨干
-
 - 重庆市课程思政示范教学团队骨干
-
 - 重庆市课程思政教学名师
-
 - 北京航空航天大学重庆校友会理事
-
 - 重庆邮电大学文峰青年百人
 
-  
+<font color=DarkBlue>[重庆邮电大学官方个人主页](https://faculty.cqupt.edu.cn/lixinwei/zh_CN/index.htm)</font>
