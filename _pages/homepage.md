@@ -11,7 +11,7 @@ author_profile: true
 
 积极开展与高校、企业和医院之间的深度合作，被聘为企业技术指导专家，致力于推动智能医学影像处理在临床中的实际应用。主要的产学研合作包括：1）与重庆德方公司合作研发镜检细胞自动识别装置，辅助成功注册二类医疗器械；2）与重庆医科大学附属医院合作搭建肝移植智能用药系统、远程心电智能诊断系统；3）与北京航空航天大学、北京师范大学合作开发脑结构分割算法等。研究成果已用于新桥医院、重医附一院、重钢总医院等多家医院，产生了较高的临床应用价值和社会民生效益。
 
-💼  <font color = lightskyblue>[学校官方主页](https://faculty.cqupt.edu.cn/lixinwei/zh_CN/index.htm) </font>
+💼  <font color = lightskyblue> [学校官方主页](https://faculty.cqupt.edu.cn/lixinwei/zh_CN/index.htm)  </font>
 
 ## <font color=DarkBlue>工作经历</font>
 
