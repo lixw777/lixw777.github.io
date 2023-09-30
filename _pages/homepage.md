@@ -48,4 +48,4 @@ author_profile: true
 
 
 
-💼  <a href="https://faculty.cqupt.edu.cn/lixinwei/zh_CN/index.htm" target="_blank" >学校官方主页</a> 
+💼  <a href="https://faculty.cqupt.edu.cn/lixinwei/zh_CN/index.htm" target="_blank" >重邮官方教师个人主页</a> 
