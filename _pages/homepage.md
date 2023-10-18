@@ -37,7 +37,7 @@ author_profile: true
 
 - 重庆市数字医学学会理事
 - 中国老年保健协会心脑血管疾病防治新技术应用分会常务委员
-- Biomedical Engineering Communications青年编委
+- Biomedical Engineering Communications, Advanced Biotechnology青年编委
 - Neuroimage, IEEE JBHI等多个国际知名期刊审稿人
 - 国家自然基金委员会函评专家
 - 企业医疗器械研发技术指导专家
