@@ -31,3 +31,8 @@ author_profile: true
 ## <font color=DarkBlue>教材/专著</font>
 
 1. 生物医学工程专业英语（第三版），重庆大学出版社，国家级规划教材，第四
+
+##<font color=DarkBlue>教学资源建设</font>
+
+1. [数字X射线摄影系统虚拟仿真实验](https://www.zhihuishu.com/virtual_portals_h5/virtualExperiment.html#/indexPage?courseId=2000095540)
+
