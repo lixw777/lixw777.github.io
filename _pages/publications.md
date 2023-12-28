@@ -22,7 +22,7 @@ Publication Years: [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [202
 
 1. **Xinwei Li**, Linjin Wang, Hong Liu, Baoqiang Ma, Lei Chu, Xiaoxi Dong, Debin Zeng, Tongtong Che,  Xiaoming Jiang, Wei Wang, Jun Hu, Shuyu Li<sup>*</sup>. "Syn_SegNet: A joint deep neural network for ultrahigh-ﬁeld 7T MRI synthesis and hippocampal subﬁeld segmentation in routine 3T MRI", IEEE Journal of Biomedical and Health Informatics, 2023, 27(10): 4866-4877. (SCI一区TOP, IF =7.7)
 2. **Xinwei Li**, Hong Liu, Yuanyang Deng, Zhangyong Li, Yuhao Jiang, Deyu Li<sup>*</sup>,  Shuyu Li<sup>\*</sup>. "Aberrant intra- and inter-network functional connectivity patterns of the anterior and posterior hippocampal networks in Schizophrenia", CNS Neuroscience & Therapeutics, 2023, 29(8): 2223-2235. (SCI一区，IF = 5.5)
-3. Dajiang Lei, Tao Zhang, Yue Wu, Weisheng Li, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", Medical & Biological Engineering & Computing, 2023, 61(11), 2829-2842. (SCI二区, IF = 3.2) 
+3. Dajiang Lei, Tao Zhang, Yue Wu, Weisheng Li, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", Medical & Biological Engineering & Computing, 2023, 61(11), 2829-2842. (SCI二区, Editor's Choice, IF = 3.2) 
 4. Zhangyong Li<sup>#</sup> , Wang Chen<sup>#</sup>, Yong Chen, Yang Ju, Zhengjun Hou, **Xinwei Li<sup>*</sup>**, Yuhao Jiang<sup>*</sup>. "Bone age assessment based on deep neural networks with annotation-free cascaded critical bone region extraction", Frontiers in Artificial Intelligence, 2023, 6: 1142895. (SCI, IF = 4.0)
 
 ### <span id="jump2022">2022</span>
