@@ -13,8 +13,11 @@ Publication Years: [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [202
 
 ## <font color=DarkBlue>Submitted Papers</font> 
 
-2. Yuanyang Deng, Xuesi Liu, Rui Nie, Zhangyong Li, Yang Li, **Xinwei Li<sup>*</sup>**, Hehua Zhang<sup>\*</sup>. “Enhancing Intertrochanteric Fracture Subtype Classification: An End-to-End Study Using Faster R-CNN Object Detection Algorithm”, Submitted.
-3. Yanping Liu, Yang Jiao, Qihui Fan, **Xinwei Li**, Zhichao Liu, Jun Hu, Jianwei Shuai<sup>*</sup>, Zhangyong Li<sup>\*</sup>. "Morphological entropy encodes cellular migration strategies on multiple length scales", Submitted.
+1. Guomei Xu, Guohong Geng, Ankang Wang, Zhangyong Li, Zhichao Liu, Yanping Liu, Jun Hu, Wei Wang<sup>*</sup>,
+
+    **Xinwei Li<sup>*</sup>**, Three autism subtypes based on single-subject grey matter network revealed by semi-supervised machine learning", Submitted.
+
+2. Yanping Liu, Yang Jiao, Qihui Fan, **Xinwei Li**, Zhichao Liu, Jun Hu, Jianwei Shuai<sup>*</sup>, Zhangyong Li<sup>\*</sup>. "Morphological entropy encodes cellular migration strategies on multiple length scales", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
