@@ -13,7 +13,7 @@ Publication Years: [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [202
 
 ## <font color=DarkBlue>Submitted Papers</font> 
 
-1. Guomei Xu, Guohong Geng, Ankang Wang, Zhangyong Li, Zhichao Liu, Yanping Liu, Jun Hu, Wei Wang<sup>\*</sup>, **Xinwei Li<sup>\*</sup>**, Three autism subtypes based on single-subject grey matter network revealed by semi-supervised machine learning", Submitted.
+1. Guomei Xu, Guohong Geng, Ankang Wang, Zhangyong Li, Zhichao Liu, Yanping Liu, Jun Hu, Wei Wang<sup>\*</sup>, **Xinwei Li<sup>\*</sup>**, "Three autism subtypes based on single-subject grey matter network revealed by semi-supervised machine learning", Submitted.
 2. Yuanyang Deng, Xuesi Liu, Rui Nie, Yang Li, Yongming Li, Zhangyong Li, **Xinwei Li<sup>\*</sup>**, Hehua Zhang<sup>\*</sup>, "Automatic Detection and Classification of Trochanteric Region Fractures Using Deep Learning to Provide Diagnosis Assistance for Doctors", Submitted.
 3. Yanping Liu, Yang Jiao, Qihui Fan, **Xinwei Li**, Zhichao Liu, Jun Hu, Jianwei Shuai<sup>*</sup>, Zhangyong Li<sup>\*</sup>. "Morphological entropy encodes cellular migration strategies on multiple length scales", Submitted.
 
@@ -35,7 +35,7 @@ Publication Years: [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [202
 ### <span id="jump2021">2021</span>
 
 1. **Xinwei Li<sup>*</sup>**, Wei Wang, Panyu Wang, Chenru Hao, Zhangyong Li<sup>*</sup>. "Atypical Sulcal Pattern in Boys with Attention‐Deficit/Hyperactivity Disorder." Human brain mapping, 2021, 42(13): 4362-4371.  (临床医学领域高质量科技期刊T1级，SCI二区TOP，IF = 5.399)
-2. Xinwei Li<sup>*</sup>**, Yuhao Jiang, Wei Wang, Xiaoxue Liu,  Zhangyong Li<sup>*</sup>. "Brain Morphometric Abnormalities in Boys with Attention‐Deficit/Hyperactivity Disorder Revealed by Sulcal Pits‐Based Analyses." CNS Neuroscience & Therapeutics, 2021, 27(3): 299-307. (SCI一区TOP，IF = 7.035)
+2. **Xinwei Li<sup>*</sup>**, Yuhao Jiang, Wei Wang, Xiaoxue Liu,  Zhangyong Li<sup>*</sup>. "Brain Morphometric Abnormalities in Boys with Attention‐Deficit/Hyperactivity Disorder Revealed by Sulcal Pits‐Based Analyses." CNS Neuroscience & Therapeutics, 2021, 27(3): 299-307. (SCI一区TOP，IF = 7.035)
 3. Chunde Yang, Panyu Wang, Jia Tan, Qingshui Liu, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis Using Graph Attention Network Based on Spatial-Constrained Sparse Functional Brain Networks." Computers in Biology and Medicine, 2021, 139: 104963. (生物医学工程领域高质量科技期刊T2级，SCI一区，IF = 6.698)
 4. Chunde Yang, Qingshui Liu, Zhongyong Li, Wei Wang, **Xinwei Li<sup>*</sup>**. "End-to-end bone age assessment based on Attentional Region Localization." 2020 International Conference on Artificial Intelligence and Cloud Computing, Journal of Physics: Conference Series. IOP Publishing, 2021, 1771(1): 012007. (EI会议)
 5. 杨春德, 贾竹, **李欣蔚<sup>*</sup>**. "基于U-Net++的心电信号识别分类研究"，计算机科学, 2021, 48(10): 121-126. （CCF B）
