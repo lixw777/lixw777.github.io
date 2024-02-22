@@ -19,6 +19,10 @@ Publication Years: [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [202
 
 ## <font color=DarkBlue>Published Papers</font>
 
+### <span id="jump2024">2024</span>
+
+1. Liu, Yanping, Yang Jiao, **Xinwei Li**, Guoqiang Li, Wei Wang, Zhichao Liu, Dui Qin, Lisha Zhong, Liyu Liu, Jianwei Shuai, Zhangyong Li. "An Entropy-Based Approach for Assessing the Directional Persistence of Cell Migration." Biophysical Journal, 2024. (SCI二区)
+
 ### <span id="jump2023">2023</span>
 
 1. **Xinwei Li**, Linjin Wang, Hong Liu, Baoqiang Ma, Lei Chu, Xiaoxi Dong, Debin Zeng, Tongtong Che,  Xiaoming Jiang, Wei Wang, Jun Hu, Shuyu Li<sup>*</sup>. "Syn_SegNet: A joint deep neural network for ultrahigh-ﬁeld 7T MRI synthesis and hippocampal subﬁeld segmentation in routine 3T MRI", IEEE Journal of Biomedical and Health Informatics, 2023, 27(10): 4866-4877. (生物医学工程领域高质量科技期刊T1级，SCI一区TOP, IF =7.7)
