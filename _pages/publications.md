@@ -14,8 +14,9 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 ## <font color=DarkBlue>Submitted Papers</font> 
 
 1. Guomei Xu, Guohong Geng, Ankang Wang, Zhangyong Li, Zhichao Liu, Yanping Liu, Jun Hu, Wei Wang<sup>\*</sup>, **Xinwei Li<sup>\*</sup>**, "Three autism subtypes based on single-subject grey matter network revealed by semi-supervised machine learning", Submitted.
-2. Yuanyang Deng, Xuesi Liu, Rui Nie, Yang Li, Yongming Li, Zhangyong Li, **Xinwei Li<sup>\*</sup>**, Hehua Zhang<sup>\*</sup>, "Automatic Detection and Classification of Trochanteric Region Fractures Using Deep Learning to Provide Diagnosis Assistance for Doctors", Submitted.
-3. Yanping Liu, Yang Jiao, Qihui Fan, **Xinwei Li**, Zhichao Liu, Jun Hu, Jianwei Shuai<sup>*</sup>, Zhangyong Li<sup>\*</sup>. "Morphological entropy encodes cellular migration strategies on multiple length scales", Submitted.
+2. **李欣蔚**, 许炜鑫, 陈勇, 秦对, 张冰玉, 李章勇, 王伟*."联合图像配准的脑卒中病灶自动分割方法研究." 重庆邮电大学学报, 2024, Accepted.
+3. Yuanyang Deng, Xuesi Liu, Rui Nie, Yang Li, Yongming Li, Zhangyong Li, **Xinwei Li<sup>\*</sup>**, Hehua Zhang<sup>\*</sup>, "Automatic Detection and Classification of Trochanteric Region Fractures Using Deep Learning to Provide Diagnosis Assistance for Doctors", Submitted.
+4. Yanping Liu, Yang Jiao, Qihui Fan, **Xinwei Li**, Zhichao Liu, Jun Hu, Jianwei Shuai<sup>*</sup>, Zhangyong Li<sup>\*</sup>. "Morphological entropy encodes cellular migration strategies on multiple length scales", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
