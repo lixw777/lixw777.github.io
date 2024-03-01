@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-发表论文共计35篇，其中SCI论文24篇，第一/通讯作者17篇（还处于数篇数阶段，方便自我评估，见笑😅）。相关研究成果得到了国内外同行的广泛关注，被Nature Reviews Neuroscience、Trends in Neurosciences等国际顶级杂志引用并得到并得到院士Karl Friston教授、院士Edward Bullmore教授、杰青贺永教授等多位知名学者的正面评价。
+发表论文共计38篇，其中SCI论文26篇，第一/通讯作者18篇（还处于数篇数阶段，方便自我评估，见笑😅）。相关研究成果得到了国内外同行的广泛关注，被Nature Reviews Neuroscience、Trends in Neurosciences等国际顶级杂志引用并得到并得到院士Karl Friston教授、院士Edward Bullmore教授、杰青贺永教授等多位知名学者的正面评价。
 
 Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [2020](#jump2020), [2019](#jump2019), [2018](#jump2018), [2016](#jump2016), [2015](#jump2015), [2013](#jump2013)
 
@@ -14,15 +14,15 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 ## <font color=DarkBlue>Submitted Papers</font> 
 
 1. Guomei Xu, Guohong Geng, Ankang Wang, Zhangyong Li, Zhichao Liu, Yanping Liu, Jun Hu, Wei Wang<sup>\*</sup>, **Xinwei Li<sup>\*</sup>**, "Three autism subtypes based on single-subject grey matter network revealed by semi-supervised machine learning", Submitted.
-2. **李欣蔚**, 许炜鑫, 陈勇, 秦对, 张冰玉, 李章勇, 王伟*."联合图像配准的脑卒中病灶自动分割方法研究." 重庆邮电大学学报, 2024, Accepted.
-4. Yanping Liu, Yang Jiao, Qihui Fan, **Xinwei Li**, Zhichao Liu, Jun Hu, Jianwei Shuai<sup>*</sup>, Zhangyong Li<sup>\*</sup>. "Morphological entropy encodes cellular migration strategies on multiple length scales", Accepted.
-4. Xin Liu, Chunyang Li, Xicheng Lou, Haohuan Kong, **Xinwei Li**, Zhangyong Li, Zhong Lisha*. "Epileptic seizure prediction based on EEG using pseudo-threedimensional CNN", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
 ### <span id="jump2024">2024</span>
 
-1. Liu, Yanping, Yang Jiao, **Xinwei Li**, Guoqiang Li, Wei Wang, Zhichao Liu, Dui Qin, Lisha Zhong, Liyu Liu, Jianwei Shuai, Zhangyong Li. "An Entropy-Based Approach for Assessing the Directional Persistence of Cell Migration." Biophysical Journal, 2024. (SCI二区)
+1. **李欣蔚**, 许炜鑫, 陈勇, 秦对, 张冰玉, 李章勇, 王伟*."联合图像配准的脑卒中病灶自动分割方法研究." 重庆邮电大学学报, 2024, Accepted.
+2. Yanping Liu, Yang Jiao, Qihui Fan, **Xinwei Li**, Zhichao Liu, Jun Hu, Jianwei Shuai<sup>*</sup>, Zhangyong Li<sup>\*</sup>. "Morphological entropy encodes cellular migration strategies on multiple length scales", npj Systems Biology and Applications, Accepted. (SCI二区)
+3. Yanping Liu, Yang Jiao, **Xinwei Li**, Guoqiang Li, Wei Wang, Zhichao Liu, Dui Qin, Lisha Zhong, Liyu Liu, Jianwei Shuai, Zhangyong Li. "An Entropy-Based Approach for Assessing the Directional Persistence of Cell Migration." Biophysical Journal, 2024. (SCI二区)
+4. Xin Liu, Chunyang Li, Xicheng Lou, Haohuan Kong, **Xinwei Li**, Zhangyong Li, Zhong Lisha*. "Epileptic seizure prediction based on EEG using pseudo-threedimensional CNN", Frontiers in Neuroinformatics, 2024, doi: 10.3389/fninf.2024.1354436. (SCI)
 
 ### <span id="jump2023">2023</span>
 
