@@ -14,6 +14,7 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 ## <font color=DarkBlue>Submitted Papers</font> 
 
 1. Guomei Xu, Guohong Geng, Ankang Wang, Zhangyong Li, Zhichao Liu, Yanping Liu, Jun Hu, Wei Wang<sup>\*</sup>, **Xinwei Li<sup>\*</sup>**, "Three autism subtypes based on single-subject grey matter network revealed by semi-supervised machine learning", Submitted.
+2. Xicheng Lou, **Xinwei Li**, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
