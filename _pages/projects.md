@@ -14,8 +14,8 @@ author_profile: true
 ## <font color=DarkBlue>主持项目</font>
 
 1. 国家自然科学基金委员会，青年科学基金项目(National Natural Science Foundation of China)，62106032，面向轻度认知障碍准确辅诊的个体形态学脑网络构建方法研究，2022/01/01-2024/12/31，国家级，主持  <font color=Darkred>【在研】</font>
-2. 重庆市科学技术局，技术创新与应用发展重大专项课题(Science and Technology Innovation Key R&D Program of Chongqing)，CSTB2023TIAD-STX0008，骨髓细胞图像识别医疗器械研发，2024/01/01-2026/12/31，省部级，主持  <font color=Darkred>【在研】</font></font>（需第一标注）
-3. 重庆市科学技术局，技术创新与应用发展重点项目课题(Chongqing technology innovation and application development key project)，cstc2021jscx-gksbX0060，大数据人工智能肝移植用药指导系统的研发与应用，2022/01/01-2024/12/31，省部级，主持 <font color=Darkred>【在研】
+2. 重庆市科学技术局，技术创新与应用发展重大专项课题(Science and Technology Innovation Key R&D Program of Chongqing)，CSTB2023TIAD-STX0008，骨髓细胞图像识别医疗器械研发，2024/01/01-2026/12/31，省部级，主持  <font color=Darkred>【在研】</font>（需第一标注）
+3. 重庆市科学技术局，技术创新与应用发展重点项目课题(Chongqing technology innovation and application development key project)，cstc2021jscx-gksbX0060，大数据人工智能肝移植用药指导系统的研发与应用，2022/01/01-2024/12/31，省部级，主持 <font color=Darkred>【在研】</font>
 4. 重庆市教育委员会，科学技术研究计划重点项目，基于3T-7T配对磁共振影像的大脑海马亚区自动分割方法研究，2024/10/01-2027/09/30，省部级，主持 <font color=Darkred>【在研】</font>
 5. 重庆市教育委员会，中小学创新人才培养工程项目，大脑海马亚区自动分割方法研究及软件开发，2023/10/01-2025/06/30，省部级 ，主持<font color=Darkred>【在研】</font>
 6. 中国博士后科学基金委员会，面上项目，2022MD713691，基于几何深度学习的个体形态学脑网络构建方法及其在轻度认知障碍疾病中的应用研究，2022/07/01-2022/12/31，省部级，主持
