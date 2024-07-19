@@ -36,4 +36,5 @@ author_profile: true
 ## <font color=DarkBlue>教学资源建设</font>
 
 1. [数字X射线摄影系统虚拟仿真实验](https://www.zhihuishu.com/virtual_portals_h5/virtualExperiment.html#/indexPage?courseId=2000095540)，重庆邮电大学"金课"
+2. [医学图像处理与识别](https://aimap.zhihuishu.com/courseMap/course/introduce/1653939158986657792)，建设中
 
