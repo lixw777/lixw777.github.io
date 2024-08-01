@@ -15,7 +15,6 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 
 1. Linjin Wang, Weijian Tao, Zhangyong Li, Hongying Meng , Haiming Li, Jiangtao He, Jun Hu, Yue Zhao, **Xinwei Li<sup>\*</sup>**, "MWFNet: A Multi-level Wavelet Fusion Network for Hippocampal Subfield Segmentation", Submitted.
 2. Xicheng Lou, **Xinwei Li**, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li*, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
-3. Jia Wu, Xiaoming Jiang, Lisha Zhong, Wei Zheng, **Xinwei Li**,  Jinzhao Lin\*, Zhangyong Li\*, ”Linear Diffusion Noise Boosted Deep Image Prior for Unsupervised Sparse-View CT Reconstruction“, Submitted
 4. Jia Wu, Jinzhao Lin, Yu Pan, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
@@ -24,9 +23,10 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 
 1. Guomei Xu, Guohong Geng, Ankang Wang, Zhangyong Li, Zhichao Liu, Yanping Liu, Jun Hu, Wei Wang<sup>\*</sup>, **Xinwei Li<sup>\*</sup>**, "Three autism subtypes based on single-subject grey matter network revealed by semi-supervised machine learning", Autism Research, 2024, DOI: 10.1002/aur.3183. (SCI一区, IF=5.3)
 2. **李欣蔚**, 许炜鑫, 陈勇, 秦对, 张冰玉, 李章勇, 王伟*."联合图像配准的脑卒中病灶自动分割方法研究." 重庆邮电大学学报, 2024, Accepted.
-3. Yanping Liu<sup>\*</sup>, Yang Jiao, Qihui Fan, **Xinwei Li**, Zhichao Liu, Dui Qin, Jun Hu, Jianwei Shuai<sup>*</sup>, Zhangyong Li<sup>\*</sup>. "Morphological entropy encodes cellular migration strategies on multiple length scales", npj Systems Biology and Applications, 2024, 10:26. (SCI二区)
-4. Yanping Liu, Yang Jiao, **Xinwei Li**, Guoqiang Li, Wei Wang, Zhichao Liu, Dui Qin, Lisha Zhong, Liyu Liu, Jianwei Shuai<sup>\*</sup>, Zhangyong Li<sup>\*</sup>. "An Entropy-Based Approach for Assessing the Directional Persistence of Cell Migration." Biophysical Journal, 2024. (SCI二区)
-5. Xin Liu, Chunyang Li, Xicheng Lou, Haohuan Kong, **Xinwei Li**, Zhangyong Li, Zhong Lisha*. "Epileptic seizure prediction based on EEG using pseudo-threedimensional CNN", Frontiers in Neuroinformatics, 2024, doi: 10.3389/fninf.2024.1354436. (SCI)
+3. Jia Wu, Xiaoming Jiang, Lisha Zhong, Wei Zheng, **Xinwei Li**,  Jinzhao Lin\*, Zhangyong Li\*, ”Linear Diffusion Noise Boosted Deep Image Prior for Unsupervised Sparse-View CT Reconstruction“, Physics in Medicine and Biology, 2024, Accepted.
+4. Yanping Liu<sup>\*</sup>, Yang Jiao, Qihui Fan, **Xinwei Li**, Zhichao Liu, Dui Qin, Jun Hu, Jianwei Shuai<sup>*</sup>, Zhangyong Li<sup>\*</sup>. "Morphological entropy encodes cellular migration strategies on multiple length scales", npj Systems Biology and Applications, 2024, 10:26. (SCI二区)
+5. Yanping Liu, Yang Jiao, **Xinwei Li**, Guoqiang Li, Wei Wang, Zhichao Liu, Dui Qin, Lisha Zhong, Liyu Liu, Jianwei Shuai<sup>\*</sup>, Zhangyong Li<sup>\*</sup>. "An Entropy-Based Approach for Assessing the Directional Persistence of Cell Migration." Biophysical Journal, 2024. (SCI二区)
+6. Xin Liu, Chunyang Li, Xicheng Lou, Haohuan Kong, **Xinwei Li**, Zhangyong Li, Zhong Lisha*. "Epileptic seizure prediction based on EEG using pseudo-threedimensional CNN", Frontiers in Neuroinformatics, 2024, doi: 10.3389/fninf.2024.1354436. (SCI)
 
 ### <span id="jump2023">2023</span>
 
