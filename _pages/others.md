@@ -25,12 +25,12 @@ author_profile: true
 
 ## <font color=DarkBlue>会议</font>
 
-| 计算视觉 | IEEE CVPR、IEEE ICCV、ECCV |
-| -------- | -------------------------- |
-| 机器学习 | NeurIPS、ICML、ICLR        |
-| 医学影像 | MICCAI、OHBM               |
-| 人工智能 | IJCAI、AAAI                |
-| 数据挖掘 | SIGKDD、SIGMOD、VLDB       |
+| 计算视觉 | CVPR、ICCV、ECCV         |
+| -------- | ------------------------ |
+| 机器学习 | NeurIPS、ICML、ICLR      |
+| 医学影像 | MICCAI、IPMI、ISBI、OHBM |
+| 人工智能 | IJCAI、AAAI              |
+| 数据挖掘 | SIGKDD、SIGMOD、VLDB     |
 
 
 
