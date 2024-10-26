@@ -16,9 +16,9 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 1. Linjin Wang, Weijian Tao, Zhangyong Li, Hongying Meng , Haiming Li, Jiangtao He, Jun Hu, Yue Zhao, **Xinwei Li<sup>\*</sup>**, "MWFNet: A Multi-level Wavelet Fusion Network for Hippocampal Subfield Segmentation", Submitted.
 2. Linjin Wang, Jiangtao He, Lisha Zhong, **Xinwei Li<sup>\*</sup>**,"A 7T MRI-Guided Learning Method for Automatic Hippocampal Subfield Segmentation on Routine 3T MRI", Submitted.
 3. Ankang Wang, Jun Hu, Weixin Xu, Zhangyong Li, **Xinwei Li<sup>\*</sup>**, "The Value of Ultra-High-Resolution Susceptibility-Weighted Imaging Minimum Intensity Projection in Deep Learning-Based Detection of Cerebral Microbleeds", Submitted.
-4. Xicheng Lou, **Xinwei Li**, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li*, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
-5. Jia Wu, Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", Submitted.
-6. Haiming Li, Linjin Wang, Jiangtao He, **Xinwei Li<sup>\*</sup>**, "An auxiliary diagnosis method for mild cognitive impairment based on structural magnetic resonance image", the 17th International Conference on Brain Informatics, 2024, Accepted.
+4. Haiming Li, Linjin Wang, Jiangtao He, **Xinwei Li<sup>\*</sup>**, "An auxiliary diagnosis method for mild cognitive impairment based on structural magnetic resonance image", the 17th International Conference on Brain Informatics, 2024, Accepted.
+5. Xicheng Lou, **Xinwei Li**, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li*, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
+6. Jia Wu, Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
