@@ -14,9 +14,11 @@ I am looking for highly-motivated students with solid mathematical background or
 
 ## <font color=DarkBlue>Employment</font>
 
-- 2023.09-Present, Wenfeng Professor, School of Bioinformatics, Chongqing University of Posts and
+- 2024.06-Present, Wenfeng Professor, School of Life Health Information Science and Engineering, Chongqing University of Posts and
   Telecommunications, China
-- 2022.01–2022.12, Associate Professor, School of Bioinformatics, Chongqing University of Posts and
+- 2023.09-2024.05, Wenfeng Professor, School of Bioinformatics, Chongqing University of Posts and
+  Telecommunications, China
+- 2022.01–2023.08, Associate Professor, School of Bioinformatics, Chongqing University of Posts and
   Telecommunications, China
 - 2018.04–2021.12, Assistant Professor, School of Bioinformatics, Chongqing University of Posts and
   Telecommunications, China
