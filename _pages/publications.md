@@ -18,7 +18,8 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 3. Ankang Wang, Jun Hu, Weixin Xu, Zhangyong Li, **Xinwei Li<sup>\*</sup>**, "The Value of Ultra-High-Resolution Susceptibility-Weighted Imaging Minimum Intensity Projection in Deep Learning-Based Detection of Cerebral Microbleeds", Submitted.
 4. Haiming Li, Linjin Wang, Jiangtao He, **Xinwei Li<sup>\*</sup>**, "An auxiliary diagnosis method for mild cognitive impairment based on structural magnetic resonance image", the 17th International Conference on Brain Informatics, 2024, Accepted.
 5. Xicheng Lou, **Xinwei Li**, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li*, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
-6. Jia Wu, Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", Submitted.
+6. Xicheng Lou, **Xinwei Li**, Hongying Meng, Jun Hu, Peiyang Li, Jiazhang Yang, Zhangyong Li*, "EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller", Submitted.
+7. Jia Wu, Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
