@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "News"
+title: "<font color=Red>News</font>"
 permalink: /news/
 author_profile: true
 
 ---
 
 {% include base_path %}
-
-## <font color=Red>最新消息 News</font>
 
 - [2024.11.05]李欣蔚老师接受国际著名媒体PsyPost采访，报道了团队关于[孤独症亚型的研究](https://www.psypost.org/machine-learning-algorithm-identifies-three-unique-autism-subtypes-in-males/)
 - [2024.11.00]硕士生王林金、许国美，本科生吕捷、罗婷茹获得国家奖学金
