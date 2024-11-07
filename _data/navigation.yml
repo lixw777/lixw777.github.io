@@ -3,7 +3,10 @@ main:
   - title: "个人主页"
     url: /homepage/
     
-  - title: "科研论文"
+  - title: "News"
+    url: /news/
+    
+  - title: "科研成果"
     url: /publications/
 
   - title: "科研项目"
