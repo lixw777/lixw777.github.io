@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-- [2024.12.00]本科生郭晓强获2024年全国大学生软件测试大赛特等奖
+- [2024.12.00]本科生郭晓强获2024年全国大学生软件测试大赛特等奖(第一名)，李欣蔚老师获卓越指导教师奖
 - [2024.11.05]李欣蔚老师接受国际著名媒体PsyPost采访，报道了团队关于[孤独症亚型的研究](https://www.psypost.org/machine-learning-algorithm-identifies-three-unique-autism-subtypes-in-males/)
 - [2024.11.00]硕士生王林金、许国美，本科生吕捷、罗婷茹获得国家奖学金
 - [2024.10.30]李欣蔚老师获批173计划
