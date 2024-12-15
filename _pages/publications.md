@@ -15,10 +15,11 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 
 1. Linjin Wang, Weijian Tao, Zhangyong Li, Hongying Meng , Haiming Li, Jiangtao He, Jun Hu, Yue Zhao, **Xinwei Li<sup>\*</sup>**, "MWFNet: A Multi-level Wavelet Fusion Network for Hippocampal Subfield Segmentation", Submitted.
 2. Linjin Wang, Jiangtao He, Guohong Geng, Lisha Zhong, **Xinwei Li<sup>\*</sup>**,"A 7T MRI-Guided Learning Method for Automatic Hippocampal Subfield Segmentation on Routine 3T MRI", Submitted.
-5. Xicheng Lou, **Xinwei Li**, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li*, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
-6. Xicheng Lou, **Xinwei Li**, Hongying Meng, Jun Hu, Peiyang Li, Jiazhang Yang, Zhangyong Li*, "EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller", Submitted.
-7. Jia Wu, Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", Submitted.
-8. Jia Wu, Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
+3. Yuheng Feng<sup>#</sup>(本科生), Jiangtao He<sup>#</sup>, Linjin Wang, Wuchen Yang , Sihan Deng, Lanlin Li, **Xinwei Li<sup>\*</sup>**, "A multi-strategy active learning framework for Enhanced peripheral blood cell image detection", Submitted.
+4. Xicheng Lou, **Xinwei Li**, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li*, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
+5. Xicheng Lou, **Xinwei Li**, Hongying Meng, Jun Hu, Peiyang Li, Jiazhang Yang, Zhangyong Li*, "EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller", Submitted.
+6. Jia Wu, Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", Submitted.
+7. Jia Wu, Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
