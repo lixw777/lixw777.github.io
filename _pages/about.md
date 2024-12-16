@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am Xinwei Li. I am a professor at the School of Bioinformatics, Chongqing University of Posts and Telecommunications, Chongqing, China. I received my B.Eng. and Ph.D. degrees from Beihang University. I was invited as a visiting student at the Beckman Institute, University of Illinois Urbana-Champaign, USA.
 
-<font color=Red><a href="https://github.com/lixw777/lixw777.github.io/blob/master/assets/cv_lixw.pdf" target="_blank">Download my CV</a></font>
+<font color=Red><a href="https://github.com/lixw777/lixw777.github.io/blob/master/assets/pdf/cv_lixw.pdf" target="_blank">Download my CV</a></font>
 
 I am looking for highly-motivated students with solid mathematical background or proficient coding skills. If you are interested in working with me, please send me an email: lixinwei@cqupt.edu.cn. Thanks!
 
