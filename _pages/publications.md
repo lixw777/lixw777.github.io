@@ -20,8 +20,9 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 5. 吕捷(本科生)，代宇，郭晓强，谭烨，王林金，冷俙政，谢雅萱，王佑豪，**李欣蔚<sup>\*</sup>**，"UDNet：用于MRI海马体自动分割的U形密集注意力网络", Submitted.
 6. Xicheng Lou, **Xinwei Li**, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li*, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
 7. Xicheng Lou, **Xinwei Li**, Hongying Meng, Jun Hu, Peiyang Li, Jiazhang Yang, Zhangyong Li*, "EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller", Submitted.
-8. Jia Wu, Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", Submitted.
-9. Jia Wu, Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
+8. Xicheng Lou, **Xinwei Li**, Hongying Meng, Jun Hu, Lisha Zhong, Jiazhang Yang, Zhangyong Li*，"A Dual-Branch Spiking Neural Network for Seizure Electroencephalogram Classification", Submitted.
+9. Jia Wu, Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", Submitted.
+10. Jia Wu, Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
