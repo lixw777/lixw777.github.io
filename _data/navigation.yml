@@ -5,12 +5,15 @@ main:
     
   - title: "News"
     url: /news/
-    
-  - title: "科研成果"
-    url: /publications/
 
   - title: "科研项目"
-    url: /projects/    
+    url: /projects/
+
+  - title: "科研论文"
+    url: /publications/
+
+  - title: "其他科研成果"
+    url: /patents/
 
   - title: "人才培养"
     url: /supervision/
