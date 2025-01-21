@@ -14,14 +14,16 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 ## <font color=DarkBlue>Submitted Papers</font> 
 
 1. **Xinwei Li<sup>\*</sup>**, Guomei Xu, Guohong Geng, Wei Wang, Jun Hu, Zhangyong Li, Shuyu Li<sup>\*</sup>, "Subtyping Autism Spectrum Disorder with a Population Graph-Based Dual Autoencoder: Revealing Two Distinct Biotypes", Submitted.
-2. Linjin Wang(硕士生), Weijian Tao, Zhangyong Li, Hongying Meng , Haiming Li, Jiangtao He, Jun Hu, Yue Zhao, **Xinwei Li<sup>\*</sup>**, "MWFNet: A Multi-level Wavelet Fusion Network for Hippocampal Subfield Segmentation", Submitted.
-3. Linjin Wang(硕士生), Jiangtao He, Guohong Geng, Lisha Zhong, **Xinwei Li<sup>\*</sup>**,"A 7T MRI-Guided Learning Method for Automatic Hippocampal Subfield Segmentation on Routine 3T MRI", Submitted.
-4. Yuheng Feng<sup>#</sup>(本科生), Jiangtao He<sup>#</sup>, Linjin Wang, Wuchen Yang , Sihan Deng, Lanlin Li, **Xinwei Li<sup>\*</sup>**, "A multi-strategy active learning framework for Enhanced peripheral blood cell image detection", Submitted.
-5. 吕捷(本科生)，代宇，郭晓强，谭烨，王林金，冷俙政，谢雅萱，王佑豪，**李欣蔚<sup>\*</sup>**，"UDNet：用于MRI海马体自动分割的U形密集注意力网络", Submitted.
-6. Xicheng Lou(博士生), **Xinwei Li<sup>\*</sup>**, Hongying Meng, Jun Hu, Peiyang Li, Jiazhang Yang, Zhangyong Li*, "EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller", Submitted.
-7. Xicheng Lou(博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li*, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
-8. Xicheng Lou(博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Lisha Zhong, Jiazhang Yang, Zhangyong Li*，"A Dual-Branch Spiking Neural Network for Seizure Electroencephalogram Classification", Submitted.
-10. Jia Wu(博士生), Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
+2. Linjin Wang (硕士生), Weijian Tao, Zhangyong Li, Hongying Meng , Haiming Li, Jiangtao He, Jun Hu, Yue Zhao, **Xinwei Li<sup>\*</sup>**, "MWFNet: A Multi-level Wavelet Fusion Network for Hippocampal Subfield Segmentation", Submitted.
+3. Guohong Geng (硕士生), Guomei Xu, Shuyu Li, Zhichao Liu, Yanping Liu, Xuetong Wang, **Xinwei Li<sup>\*</sup>**, "Identifying Two Biotypes of Autism Using Individual-Specific Functional Connectivity", Submitted.
+4. Linjin Wang (硕士生), Jiangtao He, Guohong Geng, Lisha Zhong, **Xinwei Li<sup>\*</sup>**,"A 7T MRI-Guided Learning Method for Automatic Hippocampal Subfield Segmentation on Routine 3T MRI", Submitted.
+5. Yuheng Feng<sup>#</sup>(本科生), Jiangtao He<sup>#</sup>, Linjin Wang, Wuchen Yang , Sihan Deng, Lanlin Li, **Xinwei Li<sup>\*</sup>**, "A multi-strategy active learning framework for Enhanced peripheral blood cell image detection", Submitted.
+6. 吕捷 (本科生)，代宇，郭晓强，谭烨，王林金，冷俙政，谢雅萱，王佑豪，**李欣蔚<sup>\*</sup>**，"UDNet：用于MRI海马体自动分割的U形密集注意力网络", Submitted.
+7. Xicheng Lou (博士生), **Xinwei Li<sup>\*</sup>**, Hongying Meng, Jun Hu, Peiyang Li, Jiazhang Yang, Zhangyong Li*, "EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller", Submitted.
+8. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li*, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
+9. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Lisha Zhong, Jiazhang Yang, Zhangyong Li*，"A Dual-Branch Spiking Neural Network for Seizure Electroencephalogram Classification", Submitted.
+10. Jia Wu (博士生), Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
+11. Zheng Zhang (博士生), Zhangyong Li, Chun Sing Lai, Ruiheng Wu, **Xinwei Li**, Jinzhao Lin, Xinxing Ren and Huidong Qiao, "Joint Optimization of Data Urgency and Freshness in Wireless Body Area Networks for Enhanced eHealth Monitoring", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
