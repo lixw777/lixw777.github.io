@@ -34,37 +34,37 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 
 ### <span id="jump2024">2024</span>
 
-1. Guomei Xu(硕士生), Guohong Geng, Ankang Wang, Zhangyong Li, Zhichao Liu, Yanping Liu, Jun Hu, Wei Wang<sup>\*</sup>, **Xinwei Li<sup>\*</sup>**, "Three autism subtypes based on single-subject grey matter network revealed by semi-supervised machine learning", Autism Research, 2024, 17(10): 1962-1973. 
+1. Guomei Xu(硕士生), Guohong Geng, Ankang Wang, Zhangyong Li, Zhichao Liu, Yanping Liu, Jun Hu, Wei Wang<sup>\*</sup>, **Xinwei Li<sup>\*</sup>**, "Three autism subtypes based on single-subject grey matter network revealed by semi-supervised machine learning", Autism Research, 2024, 17(10): 1962-1973. (SCI一区, IF=5.3)
 2. **李欣蔚**, 许炜鑫, 陈勇, 秦对, 张冰玉, 李章勇, 王伟*."联合图像配准的脑卒中病灶自动分割方法研究." 重庆邮电大学学报, 2024, 36(4): 729-737.
 3. Rutao Fan(硕士生), Jincheng Chen, Shanshan Xu, Wei Wu, Jian Yi, Nuoyu Zhang, Miaoyi Chang, Xuanxuan Dong, Xizhu Chen, Yuxin Zou, **Xinwei Li<sup>\*</sup>**, Yi Wu<sup>\*</sup>, "T-stage diagnosis of lung cancer based on deep learning in CT images", Digital medicine, 2024;10:e00017.
 4. Haiming Li(硕士生), Linjin Wang, Jiangtao He, **Xinwei Li<sup>\*</sup>**, "An auxiliary diagnosis method for mild cognitive impairment based on structural magnetic resonance image", the 17th International Conference on Brain Informatics, December 13-15, 2024, Bangkok, Thailand, Accepted.
 5. Jia Wu(博士生), Xiaoming Jiang, Lisha Zhong, Wei Zheng, **Xinwei Li**,  Jinzhao Lin\*, Zhangyong Li\*, ”Linear Diffusion Noise Boosted Deep Image Prior for Unsupervised Sparse-View CT Reconstruction“, Physics in Medicine and Biology, 2024, 69(16): 165029.
-6. Yanping Liu<sup>\*</sup>, Yang Jiao, Qihui Fan, **Xinwei Li**, Zhichao Liu, Dui Qin, Jun Hu, Jianwei Shuai<sup>*</sup>, Zhangyong Li<sup>\*</sup>. "Morphological entropy encodes cellular migration strategies on multiple length scales", npj Systems Biology and Applications, 2024, 10:26. 
-7. Yanping Liu, Yang Jiao, **Xinwei Li**, Guoqiang Li, Wei Wang, Zhichao Liu, Dui Qin, Lisha Zhong, Liyu Liu, Jianwei Shuai<sup>\*</sup>, Zhangyong Li<sup>\*</sup>. "An Entropy-Based Approach for Assessing the Directional Persistence of Cell Migration." Biophysical Journal, 2024, 123(6): 730-744.
-8. Xin Liu(硕士生), Chunyang Li, Xicheng Lou, Haohuan Kong, **Xinwei Li**, Zhangyong Li, Zhong Lisha*. "Epileptic seizure prediction based on EEG using pseudo-threedimensional CNN", Frontiers in Neuroinformatics, 2024, doi: 10.3389/fninf.2024.1354436. 
+6. Yanping Liu<sup>\*</sup>, Yang Jiao, Qihui Fan, **Xinwei Li**, Zhichao Liu, Dui Qin, Jun Hu, Jianwei Shuai<sup>*</sup>, Zhangyong Li<sup>\*</sup>. "Morphological entropy encodes cellular migration strategies on multiple length scales", npj Systems Biology and Applications, 2024, 10:26. (SCI二区)
+7. Yanping Liu, Yang Jiao, **Xinwei Li**, Guoqiang Li, Wei Wang, Zhichao Liu, Dui Qin, Lisha Zhong, Liyu Liu, Jianwei Shuai<sup>\*</sup>, Zhangyong Li<sup>\*</sup>. "An Entropy-Based Approach for Assessing the Directional Persistence of Cell Migration." Biophysical Journal, 2024, 123(6): 730-744. (SCI二区)
+8. Xin Liu(硕士生), Chunyang Li, Xicheng Lou, Haohuan Kong, **Xinwei Li**, Zhangyong Li, Zhong Lisha*. "Epileptic seizure prediction based on EEG using pseudo-threedimensional CNN", Frontiers in Neuroinformatics, 2024, doi: 10.3389/fninf.2024.1354436. (SCI)
 
 ### <span id="jump2023">2023</span>
 
-1. **Xinwei Li**, Linjin Wang, Hong Liu, Baoqiang Ma, Lei Chu, Xiaoxi Dong, Debin Zeng, Tongtong Che,  Xiaoming Jiang, Wei Wang, Jun Hu, Shuyu Li<sup>*</sup>. "Syn_SegNet: A joint deep neural network for ultrahigh-ﬁeld 7T MRI synthesis and hippocampal subﬁeld segmentation in routine 3T MRI", IEEE Journal of Biomedical and Health Informatics, 2023, 27(10): 4866-4877. 
-2. **Xinwei Li**, Hong Liu, Yuanyang Deng, Zhangyong Li, Yuhao Jiang, Deyu Li<sup>*</sup>,  Shuyu Li<sup>\*</sup>. "Aberrant intra- and inter-network functional connectivity patterns of the anterior and posterior hippocampal networks in Schizophrenia", CNS Neuroscience & Therapeutics, 2023, 29(8): 2223-2235. 
-3. Dajiang Lei, Tao Zhang, Yue Wu, Weisheng Li, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", Medical & Biological Engineering & Computing, 2023, 61(11), 2829-2842.
-4. Zhangyong Li<sup>#</sup> , Wang Chen<sup>#</sup>, Yong Chen, Yang Ju, Zhengjun Hou, **Xinwei Li<sup>*</sup>**, Yuhao Jiang<sup>*</sup>. "Bone age assessment based on deep neural networks with annotation-free cascaded critical bone region extraction", Frontiers in Artificial Intelligence, 2023, 6: 1142895.
+1. **Xinwei Li**, Linjin Wang, Hong Liu, Baoqiang Ma, Lei Chu, Xiaoxi Dong, Debin Zeng, Tongtong Che,  Xiaoming Jiang, Wei Wang, Jun Hu, Shuyu Li<sup>*</sup>. "Syn_SegNet: A joint deep neural network for ultrahigh-ﬁeld 7T MRI synthesis and hippocampal subﬁeld segmentation in routine 3T MRI", IEEE Journal of Biomedical and Health Informatics, 2023, 27(10): 4866-4877. (生物医学工程领域高质量科技期刊T1级，SCI一区TOP, IF =6.7)
+2. **Xinwei Li**, Hong Liu, Yuanyang Deng, Zhangyong Li, Yuhao Jiang, Deyu Li<sup>*</sup>,  Shuyu Li<sup>\*</sup>. "Aberrant intra- and inter-network functional connectivity patterns of the anterior and posterior hippocampal networks in Schizophrenia", CNS Neuroscience & Therapeutics, 2023, 29(8): 2223-2235. (SCI一区，IF = 4.8)
+3. Dajiang Lei, Tao Zhang, Yue Wu, Weisheng Li, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis based on Deep Unrolling-based Spatial Constraint Representation", Medical & Biological Engineering & Computing, 2023, 61(11), 2829-2842. (生物医学工程领域高质量科技期刊T2级，Editor's Choice, SCI二区, IF = 2.6) 
+4. Zhangyong Li<sup>#</sup> , Wang Chen<sup>#</sup>, Yong Chen, Yang Ju, Zhengjun Hou, **Xinwei Li<sup>*</sup>**, Yuhao Jiang<sup>*</sup>. "Bone age assessment based on deep neural networks with annotation-free cascaded critical bone region extraction", Frontiers in Artificial Intelligence, 2023, 6: 1142895. (SCI, IF = 3.0)
 
 ### <span id="jump2022">2022</span>
 
-1. **Xinwei Li<sup>#,*</sup>**,  Jia Tan<sup>#</sup>, Panyu Wang, Hong Liu, Zhangyong Li, Wei Wang<sup>*</sup>. "Anatomically Constrained Squeeze-and-Excitation Graph Attention Network for Cortical Surface Parcellation." Computers in Biology and Medicine, 2022, 140: 105113. 
-2. Zhonghua Zhang, Tian Wang, Shaowei Feng, Yongxin Yang, Chunhong Lai, **Xinwei Li**, Lizhi Shao, Xiaoming Jiang<sup>\*</sup>. "Sparse Phase Retrieval using Physics Informed Neural Network for Fourier Ptychographic Microscopy", Optics Letters, 2022, 47(19): 4909-4912. 
+1. **Xinwei Li<sup>#,*</sup>**,  Jia Tan<sup>#</sup>, Panyu Wang, Hong Liu, Zhangyong Li, Wei Wang<sup>*</sup>. "Anatomically Constrained Squeeze-and-Excitation Graph Attention Network for Cortical Surface Parcellation." Computers in Biology and Medicine, 2022, 140: 105113. (生物医学工程领域高质量科技期刊T2级，SCI一区，IF = 7.7)
+2. Zhonghua Zhang, Tian Wang, Shaowei Feng, Yongxin Yang, Chunhong Lai, **Xinwei Li**, Lizhi Shao, Xiaoming Jiang<sup>\*</sup>. "Sparse Phase Retrieval using Physics Informed Neural Network for Fourier Ptychographic Microscopy", Optics Letters, 2022, 47(19): 4909-4912. (SCI二区，IF = 3.6)
 3. 吴燃, 唐清垚, 姜小明, **李欣蔚**, 李章勇<sup>*</sup>. "心电成分的多核尺度卷积神经网络分类算法研究." 重庆邮电大学学报 (自然科学版), 2022, 34(2): 243- 249.
 
 ### <span id="jump2021">2021</span>
 
-1. **Xinwei Li<sup>*</sup>**, Wei Wang, Panyu Wang, Chenru Hao, Zhangyong Li<sup>*</sup>. "Atypical Sulcal Pattern in Boys with Attention‐Deficit/Hyperactivity Disorder." Human brain mapping, 2021, 42(13): 4362-4371. 
-2. **Xinwei Li<sup>*</sup>**, Yuhao Jiang, Wei Wang, Xiaoxue Liu,  Zhangyong Li<sup>*</sup>. "Brain Morphometric Abnormalities in Boys with Attention‐Deficit/Hyperactivity Disorder Revealed by Sulcal Pits‐Based Analyses." CNS Neuroscience & Therapeutics, 2021, 27(3): 299-307. 
-3. Chunde Yang, Panyu Wang, Jia Tan, Qingshui Liu, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis Using Graph Attention Network Based on Spatial-Constrained Sparse Functional Brain Networks." Computers in Biology and Medicine, 2021, 139: 104963. 
-4. Chunde Yang, Qingshui Liu, Zhongyong Li, Wei Wang, **Xinwei Li<sup>*</sup>**. "End-to-end bone age assessment based on Attentional Region Localization." 2020 International Conference on Artificial Intelligence and Cloud Computing, Journal of Physics: Conference Series. IOP Publishing, 2021, 1771(1): 012007. 
-5. 杨春德, 贾竹, **李欣蔚<sup>*</sup>**. "基于U-Net++的心电信号识别分类研究"，计算机科学, 2021, 48(10): 121-126.
-6. 王伟, 胡涛, **李欣蔚<sup>*</sup>**, 沈思婉, 姜小明, 刘峻源. "白细胞图像超分辨率重建研究." 计算机科学, 2021, 48(4): 164-168. 
-7. Xiaoxue Liu, **Xinwei Li**, Wei Zhang, Peng Ran, Bingyu Zhang, Zhangyong Li<sup>*</sup>. "Weakly supervised mitosis detection using ellipse label on attention Mask R-CNN." The 2nd International Conference on Computing and Data Science. January 28–30, 2021, 2021, 34:1-7.
+1. **Xinwei Li<sup>*</sup>**, Wei Wang, Panyu Wang, Chenru Hao, Zhangyong Li<sup>*</sup>. "Atypical Sulcal Pattern in Boys with Attention‐Deficit/Hyperactivity Disorder." Human brain mapping, 2021, 42(13): 4362-4371.  (临床医学领域高质量科技期刊T1级，SCI二区TOP，IF = 5.399)
+2. **Xinwei Li<sup>*</sup>**, Yuhao Jiang, Wei Wang, Xiaoxue Liu,  Zhangyong Li<sup>*</sup>. "Brain Morphometric Abnormalities in Boys with Attention‐Deficit/Hyperactivity Disorder Revealed by Sulcal Pits‐Based Analyses." CNS Neuroscience & Therapeutics, 2021, 27(3): 299-307. (SCI二区，IF = 7.035)
+3. Chunde Yang, Panyu Wang, Jia Tan, Qingshui Liu, **Xinwei Li<sup>*</sup>**. "Autism Spectrum Disorder Diagnosis Using Graph Attention Network Based on Spatial-Constrained Sparse Functional Brain Networks." Computers in Biology and Medicine, 2021, 139: 104963. (生物医学工程领域高质量科技期刊T2级，SCI二区，IF = 6.698)
+4. Chunde Yang, Qingshui Liu, Zhongyong Li, Wei Wang, **Xinwei Li<sup>*</sup>**. "End-to-end bone age assessment based on Attentional Region Localization." 2020 International Conference on Artificial Intelligence and Cloud Computing, Journal of Physics: Conference Series. IOP Publishing, 2021, 1771(1): 012007. (EI会议)
+5. 杨春德, 贾竹, **李欣蔚<sup>*</sup>**. "基于U-Net++的心电信号识别分类研究"，计算机科学, 2021, 48(10): 121-126. （CCF B）
+6. 王伟, 胡涛, **李欣蔚<sup>*</sup>**, 沈思婉, 姜小明, 刘峻源. "白细胞图像超分辨率重建研究." 计算机科学, 2021, 48(4): 164-168. (CCF B)
+7. Xiaoxue Liu, **Xinwei Li**, Wei Zhang, Peng Ran, Bingyu Zhang, Zhangyong Li<sup>*</sup>. "Weakly supervised mitosis detection using ellipse label on attention Mask R-CNN." The 2nd International Conference on Computing and Data Science. January 28–30, 2021, 2021, 34:1-7. (EI 会议)
 
 ### <span id="jump2020">2020</span>
 
