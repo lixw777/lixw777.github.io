@@ -9,7 +9,7 @@ author_profile: true
 
 Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [2020](#jump2020), [2019](#jump2019), [2018](#jump2018), [2016](#jump2016), [2015](#jump2015), [2013](#jump2013)
 
-\# co-first authors, * corresponding author  
+\# co-first authors, * corresponding author  （当年分区、IF）（最新分区、IF）
 
 ## <font color=DarkBlue>Submitted Papers</font> 
 
@@ -34,7 +34,7 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 
 ### <span id="jump2024">2024</span>
 
-1. Guomei Xu(硕士生), Guohong Geng, Ankang Wang, Zhangyong Li, Zhichao Liu, Yanping Liu, Jun Hu, Wei Wang<sup>\*</sup>, **Xinwei Li<sup>\*</sup>**, "Three autism subtypes based on single-subject grey matter network revealed by semi-supervised machine learning", Autism Research, 2024, 17(10): 1962-1973. (SCI一区, IF=5.3)
+1. Guomei Xu(硕士生), Guohong Geng, Ankang Wang, Zhangyong Li, Zhichao Liu, Yanping Liu, Jun Hu, Wei Wang<sup>\*</sup>, **Xinwei Li<sup>\*</sup>**, "Three autism subtypes based on single-subject grey matter network revealed by semi-supervised machine learning", Autism Research, 2024, 17(10): 1962-1973. (SCI一区, IF=5.3)（）
 2. **李欣蔚**, 许炜鑫, 陈勇, 秦对, 张冰玉, 李章勇, 王伟*."联合图像配准的脑卒中病灶自动分割方法研究." 重庆邮电大学学报, 2024, 36(4): 729-737.
 3. Rutao Fan(硕士生), Jincheng Chen, Shanshan Xu, Wei Wu, Jian Yi, Nuoyu Zhang, Miaoyi Chang, Xuanxuan Dong, Xizhu Chen, Yuxin Zou, **Xinwei Li<sup>\*</sup>**, Yi Wu<sup>\*</sup>, "T-stage diagnosis of lung cancer based on deep learning in CT images", Digital medicine, 2024;10:e00017.
 4. Haiming Li(硕士生), Linjin Wang, Jiangtao He, **Xinwei Li<sup>\*</sup>**, "An auxiliary diagnosis method for mild cognitive impairment based on structural magnetic resonance image", the 17th International Conference on Brain Informatics, December 13-15, 2024, Bangkok, Thailand, Accepted.
