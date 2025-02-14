@@ -1,8 +1,5 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+
 ---
 
 发表论文共计44篇，其中SCI论文29篇，第一/通讯作者22篇（还处于数篇数阶段，方便自我评估，见笑😅）。相关研究成果得到了国内外同行的广泛关注，被Nature Reviews Neuroscience、Trends in Neurosciences等国际顶级杂志引用并得到并得到院士Karl Friston教授、院士Edward Bullmore教授等多位知名学者的正面评价。
