@@ -23,8 +23,7 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 8. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li*, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
 9. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Lisha Zhong, Jiazhang Yang, Zhangyong Li*，"A Dual-Branch Spiking Neural Network for Seizure Electroencephalogram Classification", Submitted.
 10. Jia Wu (博士生), Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
-11. Zheng Zhang (博士生), Zhangyong Li, Chun Sing Lai, Ruiheng Wu, **Xinwei Li**, Jinzhao Lin, Xinxing Ren and Huidong Qiao, "Joint Optimization of Data Urgency and Freshness in Wireless Body Area Networks for Enhanced eHealth Monitoring", Submitted.
-12. Xingmou Liu, Dengfeng He , Lei Li , Qing Zhang, **Xinwei Li**, Xun Sun, Gaoxing Luo, "Initiative bactericidal strategy via synergetic excitation of magnetorheological and magnetothermal on biomimetic micronano structured surfaces", Submitted.
+11. Xingmou Liu, Dengfeng He , Lei Li , Qing Zhang, **Xinwei Li**, Xun Sun, Gaoxing Luo, "Initiative bactericidal strategy via synergetic excitation of magnetorheological and magnetothermal on biomimetic micronano structured surfaces", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
@@ -32,6 +31,7 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 
 1. Ankang Wang(硕士生), Jun Hu, Weixin Xu, Zhangyong Li, **Xinwei Li<sup>\*</sup>**, "The Value of Ultra-High-Resolution Susceptibility-Weighted Imaging Minimum Intensity Projection in Deep Learning-Based Detection of Cerebral Microbleeds", The 8th International Conference on Biological Information and Biomedical Engineering, August 11-13, 2025, Guiyang, China, Accepted.
 2. Jia Wu(博士生), Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li*, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", IEEE Transactions on Computational Imaging, 2025, doi: 10.1109/TCI.2025.3536078. 
+3. Zheng Zhang (博士生), Zhangyong Li, Chun Sing Lai, Ruiheng Wu, **Xinwei Li**, Jinzhao Lin, Xinxing Ren and Huidong Qiao, "Joint Optimization of Data Urgency and Freshness in Wireless Body Area Networks for Enhanced eHealth Monitoring", IEEE Transactions on Consumer Electronics, 2025, Accepted.
 
 ### <span id="jump2024">2024</span>
 
