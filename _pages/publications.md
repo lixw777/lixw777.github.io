@@ -16,7 +16,6 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 1. **Xinwei Li<sup>\*</sup>**, Guomei Xu, Guohong Geng, Wei Wang, Jun Hu, Zhangyong Li, Shuyu Li<sup>\*</sup>, "Subtyping Autism Spectrum Disorder with a Population Graph-Based Dual Autoencoder: Revealing Two Distinct Biotypes", Submitted.
 2. **Xinwei Li<sup>\*</sup>**, Linjin Wang, Weijian Tao, Hongying Meng , Haiming Li, Jiangtao He, Jun Hu, Yue Zhao, Zhangyong Li, "MWFNet: A Multi-level Wavelet Fusion Network for Hippocampal Subfield Segmentation", Submitted.
 3. Guohong Geng (硕士生), Guomei Xu, Shuyu Li, Zhiyuan Zhu, Zhichao Liu, Yanping Liu, Xuetong Wang, **Xinwei Li<sup>\*</sup>**, "Identifying Two Biotypes of Autism Using Individual-Specific Functional Connectivity", Submitted.
-4. Linjin Wang (硕士生), Jiangtao He, Guohong Geng, Lisha Zhong, **Xinwei Li<sup>\*</sup>**,"A 7T MRI-Guided Learning Method for Automatic Hippocampal Subfield Segmentation on Routine 3T MRI", Submitted.
 5. Yuheng Feng<sup>#</sup>(本科生), Jiangtao He<sup>#</sup>, Linjin Wang, Wuchen Yang , Sihan Deng, Lanlin Li, **Xinwei Li<sup>\*</sup>**, "A multi-strategy active learning framework for Enhanced peripheral blood cell image detection", Submitted.
 6. 吕捷 (本科生)，代宇，郭晓强，谭烨，王林金，冷俙政，谢雅萱，王佑豪，**李欣蔚<sup>\*</sup>**，"UDNet：用于MRI海马体自动分割的U形密集注意力网络", Submitted.
 7. Xicheng Lou (博士生), **Xinwei Li<sup>\*</sup>**, Hongying Meng, Jun Hu, Peiyang Li, Jiazhang Yang, Zhangyong Li*, "EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller", Submitted.
@@ -29,9 +28,10 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 
 ### <span id="jump2024">2025</span>
 
-1. Ankang Wang(硕士生), Jun Hu, Weixin Xu, Zhangyong Li, **Xinwei Li<sup>\*</sup>**, "The Value of Ultra-High-Resolution Susceptibility-Weighted Imaging Minimum Intensity Projection in Deep Learning-Based Detection of Cerebral Microbleeds", The 8th International Conference on Biological Information and Biomedical Engineering, August 11-13, 2025, Guiyang, China, Accepted.
-2. Jia Wu(博士生), Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li*, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", IEEE Transactions on Computational Imaging, 2025, doi: 10.1109/TCI.2025.3536078. 
-3. Zheng Zhang (博士生), Zhangyong Li, Chun Sing Lai, Ruiheng Wu, **Xinwei Li**, Jinzhao Lin, Xinxing Ren and Huidong Qiao, "Joint Optimization of Data Urgency and Freshness in Wireless Body Area Networks for Enhanced eHealth Monitoring", IEEE Transactions on Consumer Electronics, 2025, doi: 10.1109/TCE.2025.3544917.
+1. Linjin Wang (硕士生), Jiangtao He, Guohong Geng, Lisha Zhong, **Xinwei Li<sup>\*</sup>**,"A 7T MRI-Guided Learning Method for Automatic Hippocampal Subfield Segmentation on Routine 3T MRI", IEEE Access, 2025, Accepted.
+2. Ankang Wang(硕士生), Jun Hu, Weixin Xu, Zhangyong Li, **Xinwei Li<sup>\*</sup>**, "The Value of Ultra-High-Resolution Susceptibility-Weighted Imaging Minimum Intensity Projection in Deep Learning-Based Detection of Cerebral Microbleeds", The 8th International Conference on Biological Information and Biomedical Engineering, August 11-13, 2025, Guiyang, China, Accepted.
+3. Jia Wu(博士生), Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li*, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", IEEE Transactions on Computational Imaging, 2025, doi: 10.1109/TCI.2025.3536078. 
+4. Zheng Zhang (博士生), Zhangyong Li, Chun Sing Lai, Ruiheng Wu, **Xinwei Li**, Jinzhao Lin, Xinxing Ren and Huidong Qiao, "Joint Optimization of Data Urgency and Freshness in Wireless Body Area Networks for Enhanced eHealth Monitoring", IEEE Transactions on Consumer Electronics, 2025, doi: 10.1109/TCE.2025.3544917.
 
 ### <span id="jump2024">2024</span>
 
