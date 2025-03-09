@@ -30,7 +30,7 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 
 1. Linjin Wang (硕士生), Jiangtao He, Guohong Geng, Lisha Zhong, **Xinwei Li<sup>\*</sup>**,"A 7T MRI-Guided Learning Method for Automatic Hippocampal Subfield Segmentation on Routine 3T MRI", IEEE Access, 2025, doi: 10.1109/ACCESS.2025.3548726.
 2. Ankang Wang(硕士生), Jun Hu, Weixin Xu, Zhangyong Li, **Xinwei Li<sup>\*</sup>**, "The Value of Ultra-High-Resolution Susceptibility-Weighted Imaging Minimum Intensity Projection in Deep Learning-Based Detection of Cerebral Microbleeds", The 8th International Conference on Biological Information and Biomedical Engineering, August 11-13, 2025, Guiyang, China, Accepted.
-3. Jia Wu(博士生), Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li*, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", IEEE Transactions on Computational Imaging, 2025, doi: 10.1109/TCI.2025.3536078. 
+3. Jia Wu(博士生), Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li*, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", IEEE Transactions on Computational Imaging, 2025, 11: 237-250. 
 4. Zheng Zhang (博士生), Zhangyong Li, Chun Sing Lai, Ruiheng Wu, **Xinwei Li**, Jinzhao Lin, Xinxing Ren and Huidong Qiao, "Joint Optimization of Data Urgency and Freshness in Wireless Body Area Networks for Enhanced eHealth Monitoring", IEEE Transactions on Consumer Electronics, 2025, doi: 10.1109/TCE.2025.3544917.
 
 ### <span id="jump2024">2024</span>
