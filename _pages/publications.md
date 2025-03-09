@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-发表论文共计44篇，其中SCI论文29篇，第一/通讯作者22篇（还处于数篇数阶段，方便自我评估，见笑😅）。相关研究成果得到了国内外同行的广泛关注，被Nature Reviews Neuroscience、Trends in Neurosciences等国际顶级杂志引用并得到并得到院士Karl Friston教授、院士Edward Bullmore教授等多位知名学者的正面评价。
+发表论文共计45篇，其中SCI论文30篇，第一/通讯作者23篇（还处于数篇数阶段，方便自我评估，见笑😅）。相关研究成果得到了国内外同行的广泛关注，被Nature Reviews Neuroscience、Trends in Neurosciences等国际顶级杂志引用并得到并得到院士Karl Friston教授、院士Edward Bullmore教授等多位知名学者的正面评价。
 
 Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [2020](#jump2020), [2019](#jump2019), [2018](#jump2018), [2016](#jump2016), [2015](#jump2015), [2013](#jump2013)
 
@@ -28,7 +28,7 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 
 ### <span id="jump2024">2025</span>
 
-1. Linjin Wang (硕士生), Jiangtao He, Guohong Geng, Lisha Zhong, **Xinwei Li<sup>\*</sup>**,"A 7T MRI-Guided Learning Method for Automatic Hippocampal Subfield Segmentation on Routine 3T MRI", IEEE Access, 2025, Accepted.
+1. Linjin Wang (硕士生), Jiangtao He, Guohong Geng, Lisha Zhong, **Xinwei Li<sup>\*</sup>**,"A 7T MRI-Guided Learning Method for Automatic Hippocampal Subfield Segmentation on Routine 3T MRI", IEEE Access, 2025, doi: 10.1109/ACCESS.2025.3548726.
 2. Ankang Wang(硕士生), Jun Hu, Weixin Xu, Zhangyong Li, **Xinwei Li<sup>\*</sup>**, "The Value of Ultra-High-Resolution Susceptibility-Weighted Imaging Minimum Intensity Projection in Deep Learning-Based Detection of Cerebral Microbleeds", The 8th International Conference on Biological Information and Biomedical Engineering, August 11-13, 2025, Guiyang, China, Accepted.
 3. Jia Wu(博士生), Jinzhao Lin, Yu Pang, Xiaoming Jiang, **Xinwei Li**, Hongying Meng, Yamei Luo, Lu Yang, and Zhangyong Li*, "Cascaded Frequency-Encoded Multi-Scale Neural Fields for Sparse-View CT Reconstruction", IEEE Transactions on Computational Imaging, 2025, doi: 10.1109/TCI.2025.3536078. 
 4. Zheng Zhang (博士生), Zhangyong Li, Chun Sing Lai, Ruiheng Wu, **Xinwei Li**, Jinzhao Lin, Xinxing Ren and Huidong Qiao, "Joint Optimization of Data Urgency and Freshness in Wireless Body Area Networks for Enhanced eHealth Monitoring", IEEE Transactions on Consumer Electronics, 2025, doi: 10.1109/TCE.2025.3544917.
