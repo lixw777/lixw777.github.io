@@ -22,6 +22,7 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 8. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li*, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
 9. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Lisha Zhong, Jiazhang Yang, Zhangyong Li*，"A Dual-Branch Spiking Neural Network for Seizure Electroencephalogram Classification", Submitted.
 10. Jia Wu (博士生), Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
+10. Jing Huang (博士生), Xiaoming Jiang, **Xinwei Li**, Jia Wu, Guoquan Li, Hongying Meng, Zhangyong Li, "Multi-Scale Lipschitz Neural Fields Incorporating Frequency Decoupling for Medical Image Registration", Submitted.
 11. Xingmou Liu, Dengfeng He , Lei Li , Qing Zhang, **Xinwei Li**, Xun Sun, Gaoxing Luo, "Initiative bactericidal strategy via synergetic excitation of magnetorheological and magnetothermal on biomimetic micronano structured surfaces", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
