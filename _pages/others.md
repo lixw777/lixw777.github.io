@@ -36,20 +36,6 @@ author_profile: true
 
 ## <font color=DarkBlue>本站访问地图</font>
 
-<head>
-  <script type="text/javascript" src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-</head>
-<body>
-
-	<div style="color: rgb(255, 255, 255);margin-left: 30px;margin-bottom: 30px;font-size: 16px;">
-	  <span id="busuanzi_container_site_pv">
-	    本站总访问量 <span id="busuanzi_value_site_pv"> </span> 次
-	  </span>
-	</div>
-</body>
-
-
-
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5lqopbe1las&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
