@@ -43,5 +43,5 @@ author_profile: true
 <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 <span id="busuanzi_container_site_uv">本站访客数<span id="busuanzi_value_site_uv"></span>次</span>
 
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=A_61ORItZhrFYkIh59wf9Lck6olS2MuUAOWaD8WHEsk&cl=ffffff&w=a"></script>
 
