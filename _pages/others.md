@@ -45,3 +45,5 @@ author_profile: true
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=A_61ORItZhrFYkIh59wf9Lck6olS2MuUAOWaD8WHEsk&cl=ffffff&w=a"></script>
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=A_61ORItZhrFYkIh59wf9Lck6olS2MuUAOWaD8WHEsk"></script>
+
