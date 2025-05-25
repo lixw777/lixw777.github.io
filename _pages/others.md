@@ -43,4 +43,5 @@ author_profile: true
 <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 <span id="busuanzi_container_site_uv">本站访客数<span id="busuanzi_value_site_uv"></span>次</span>
 
+<div style="height:100%; width:50%; border:0px solid black;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=A_61ORItZhrFYkIh59wf9Lck6olS2MuUAOWaD8WHEsk"></script>
