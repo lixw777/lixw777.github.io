@@ -8,8 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-- [2025.4.19]李欣蔚老师担任2025 成像、探测与信息处理学术会议-生物医学成像与信息处理论坛委员，并坐做邀请报告"孤独症神经分型研究"
-- [2025.4.19]祝贺团队博士生娄熙承工作"EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller"被SCI二区期刊《Tsinghua Science and Technology》接收
+- [2025.06.01]李欣蔚老师被聘为医学图像计算青年研讨会（MICS）第五届委员会委员
+- [2025.04.19]李欣蔚老师担任2025 成像、探测与信息处理学术会议-生物医学成像与信息处理论坛委员，并坐做邀请报告"孤独症神经分型研究"
+- [2025.04.19]祝贺团队博士生娄熙承工作"EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller"被SCI二区期刊《Tsinghua Science and Technology》接收
 - [2024.12.26]李欣蔚老师与渝粤病理科学研究中心签订技术开发合作协议
 - [2024.12.07]李欣蔚老师担任2024 第五届全国光电子、光子材料与器件学术会议-生物、医学光学与光子学论坛委员，并做邀请报告"超高场磁共振成像在脑结构分割和病灶检测中的创新应用"
 - [2024.12.00]祝贺本科生郭晓强获2024年全国大学生软件测试大赛特等奖(冠军)，李欣蔚老师获卓越指导教师奖
