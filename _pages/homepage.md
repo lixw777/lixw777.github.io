@@ -40,6 +40,7 @@ author_profile: true
 
 - 中国老年保健协会心脑血管疾病防治新技术应用分会常务委员
 - 重庆市医药生物技术协会血液肿瘤智能诊疗专业委员会副主任委员
+- 重庆市生物医学工程学会理事
 - 重庆市数字医学学会理事
 - 医学图像计算青年研讨会（MICS）委员会委员
 - Biomedical Engineering Communications, Advanced Biotechnology青年编委
