@@ -15,7 +15,7 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 
 1. **Xinwei Li<sup>\*</sup>**, Guomei Xu, Guohong Geng, Wei Wang, Jun Hu, Zhangyong Li, Shuyu Li<sup>\*</sup>, "Subtyping Autism Spectrum Disorder with a Population Graph-Based Dual Autoencoder: Revealing Two Distinct Biotypes", Submitted.
 3. Guohong Geng (硕士生), Guomei Xu, Shuyu Li, Zhiyuan Zhu, Zhichao Liu, Yanping Liu, Xuetong Wang, **Xinwei Li<sup>\*</sup>**, "Identifying Two Biotypes of Autism Using Individual-Specific Functional Connectivity", Submitted.
-6. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Meili Xu, Yue Zhao, Jiazhang Yang, Zhangyong Li*, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
+6. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Zhangyong Li*, "EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces", Submitted.
 9. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Yue Zhao, Jiazhang Yang, Zhangyong Li*，"An Energy-Efficient Dual-Branch Spiking Neural Network for Epileptic Seizure Detection toward Portable Electroencephalography Applications", Submitted.
 5. Xicheng Lou (博士生), **Xinwei Li**, Yue Zhao, Hongying Meng, Senior Member, IEEE, Jiazhang Yang, and Zhangyong Li*, "Towards Robust Motor Imagery Decoding in Neurorehabilitation: A Subject-Independent Deep Learning Approach", Submitted.
 6. Jia Wu (博士生), Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
