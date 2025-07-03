@@ -10,7 +10,7 @@ author_profile: true
 
 - [2025.06.24]祝贺团队硕士生王林金获得重庆邮电大学研究生优秀学位论文
 - [2025.06.21]李欣蔚老师被聘为重庆市生物医学工程学会理事
-- [2025.06.12]祝贺团队硕士生王林金工作"MWFNet: A Multi-level Wavelet Fusion Network for Hippocampal Subfield Segmentation"被SCI二区期刊《Journal of King Saud University Computer and Information Sciences》接收。
+- [2025.06.12]祝贺团队硕士生王林金工作"[MWFNet: A Multi-level Wavelet Fusion Network for Hippocampal Subfield Segmentation](https://link.springer.com/article/10.1007/s44443-025-00109-z)"被SCI二区期刊《Journal of King Saud University Computer and Information Sciences》接收。
 - [2025.06.07]李欣蔚老师被聘为重庆市医药生物技术协会血液肿瘤智能诊疗专业委员会副主任委员，并做邀请报告"血液病诊断的智能跃迁--从经验依赖到数据驱动的范式转移"
 - [2025.06.01]李欣蔚老师被聘为医学图像计算青年研讨会（MICS）第五届委员会委员
 - [2025.04.19]李欣蔚老师担任2025 成像、探测与信息处理学术会议-生物医学成像与信息处理论坛委员，并做邀请报告"孤独症神经分型研究"
