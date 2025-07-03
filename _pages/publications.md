@@ -26,7 +26,7 @@ Publication Years: [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [202
 
 ### <span id="jump2024">2025</span>
 
-1. **Xinwei Li<sup>\*</sup>**, Linjin Wang, Weijian Tao, Hongying Meng , Haiming Li, Jiangtao He, Jun Hu, Yue Zhao, Zhangyong Li, "MWFNet: A Multi-level Wavelet Fusion Network for Hippocampal Subfield Segmentation", Journal of King Saud University Computer and Information Sciences, Accepted.
+1. **Xinwei Li<sup>\*</sup>**, Linjin Wang, Weijian Tao, Hongying Meng , Haiming Li, Jiangtao He, Jun Hu, Yue Zhao, Zhangyong Li, "MWFNet: A Multi-level Wavelet Fusion Network for Hippocampal Subfield Segmentation", Journal of King Saud University Computer and Information Sciences, 37: 98.
 2. Xicheng Lou (博士生), **Xinwei Li<sup>\*</sup>**, Hongying Meng, Jun Hu, Peiyang Li, Jiazhang Yang, Zhangyong Li*, "EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller", Tsinghua Science and Technology, 2025, Accepted.
 3. Yuheng Feng<sup>#</sup>(本科生), Jiangtao He<sup>#</sup>, Linjin Wang, Wuchen Yang , Sihan Deng, Lanlin Li, **Xinwei Li<sup>\*</sup>**, "A multi-strategy active learning framework for Enhanced peripheral blood cell image detection", IEEE Access, 2025, 13: 104815-104827.
 4. Linjin Wang (硕士生), Jiangtao He, Guohong Geng, Lisha Zhong, **Xinwei Li<sup>\*</sup>**,"A 7T MRI-Guided Learning Method for Automatic Hippocampal Subfield Segmentation on Routine 3T MRI", IEEE Access, 2025, 13: 42428-42440.
