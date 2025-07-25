@@ -8,6 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
+- [2025.07.21]祝贺团队本科生冯雨恒等人获得第十届全国大学生生物医学工程创新设计竞赛 一等奖
 - [2025.06.24]祝贺团队硕士生王林金获得重庆邮电大学研究生优秀学位论文
 - [2025.06.21]李欣蔚老师被聘为重庆市生物医学工程学会理事
 - [2025.06.12]祝贺团队硕士生王林金工作"[MWFNet: A Multi-level Wavelet Fusion Network for Hippocampal Subfield Segmentation](https://link.springer.com/article/10.1007/s44443-025-00109-z)"被SCI二区期刊《Journal of King Saud University Computer and Information Sciences》接收。
