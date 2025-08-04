@@ -43,7 +43,8 @@ author_profile: true
 - 重庆市生物医学工程学会理事
 - 重庆市数字医学学会理事
 - 医学图像计算青年研讨会（MICS）委员会委员
-- Biomedical Engineering Communications, Advanced Biotechnology青年编委
+- Biomedical Engineering Communications, Advanced Biotechnology期刊青年编委
+- Brain Informatics 2025 国际会议 Workshop Chair
 - Neuroimage, IEEE Journal of Biomedical and Health Informatics, Knowledge-Based Systems等多个国际知名期刊审稿人
 - 国家自然基金委员会函评专家
 - 企业医疗器械研发技术指导专家
