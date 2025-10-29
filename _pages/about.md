@@ -12,7 +12,7 @@ Hi, I am Xinwei Li. I am a professor at the School of Bioinformatics, Chongqing 
 
 I am looking for highly-motivated students with solid mathematical background or proficient coding skills. If you are interested in working with me, please send me an email: lixinwei@cqupt.edu.cn. Thanks!
 
-<font color=Red><a href="https://raw.githubusercontent.com/lixw777/lixw777.github.io/master/assets/pdf/cv_lixw.pdf" target="_blank">Download my CV</a></font>
+<font color=Red>Download my CV:   <a href="https://raw.githubusercontent.com/lixw777/lixw777.github.io/master/assets/pdf/cv_lixw.pdf" target="_blank">English version</a>    <a href="https://raw.githubusercontent.com/lixw777/lixw777.github.io/master/assets/pdf/cv_lixw_c.pdf" target="_blank">中文版本</a></font>
 
 ## <font color=DarkBlue>Employment</font>
 
