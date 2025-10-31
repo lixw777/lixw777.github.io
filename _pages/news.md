@@ -10,7 +10,6 @@ author_profile: true
 
 - [2025.08.27]李欣蔚老师获得国家自然科学基金面上项目
 - [2025.08.05]祝贺团队硕士生王林金专利"一种基于几何神经网络的大脑皮层表面自动分割方法"获得授权
-- [2025.08.05]祝贺团队博士生娄熙承工作"[EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller](https://www.sciopen.com/article/10.26599/TST.2025.9010083)"被SCI二区期刊《Tsinghua Science and Technology》接收。
 - [2025.08.05]祝贺团队硕士生刘洪专利"一种脑沟异常的预测系统"获得授权
 - [2025.08.01]祝贺团队硕士生王林金专利"基于超高场7T磁共振图像合成的海马亚区半监督自动分割方法"获得授权
 - [2025.07.XX]李欣蔚老师获得重庆市重大项目课题
@@ -24,7 +23,7 @@ author_profile: true
 - [2025.05.27]祝贺团队硕士生李海铭专利"一种基于图注意力网络的脑网络结构和相似度的联合学习方法"获得授权
 - [2025.04.25]祝贺团队硕士生刘洪专利"一种基于超高场磁共振影像重建的海马亚区分割方法及系统"获得授权
 - [2025.04.19]李欣蔚老师担任2025 成像、探测与信息处理学术会议-生物医学成像与信息处理论坛委员，并做邀请报告"孤独症神经分型研究"
-- [2025.04.19]祝贺团队博士生娄熙承工作"EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller"被SCI二区期刊《Tsinghua Science and Technology》接收
+- [2025.04.19]祝贺团队博士生娄熙承工作"[EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller](https://www.sciopen.com/article/10.26599/TST.2025.9010083)"被SCI二区期刊《Tsinghua Science and Technology》接收
 - [2024.12.26]李欣蔚老师与渝粤病理科学研究中心签订技术开发合作协议
 - [2024.12.07]李欣蔚老师担任2024 第五届全国光电子、光子材料与器件学术会议-生物、医学光学与光子学论坛委员，并做邀请报告"超高场磁共振成像在脑结构分割和病灶检测中的创新应用"
 - [2024.12.00]祝贺本科生郭晓强获2024年全国大学生软件测试大赛特等奖(冠军)，李欣蔚老师获卓越指导教师奖
