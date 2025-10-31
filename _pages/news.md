@@ -10,6 +10,7 @@ author_profile: true
 
 - [2025.08.27]李欣蔚老师获得国家自然科学基金面上项目
 - [2025.08.05]祝贺团队硕士生王林金专利"一种基于几何神经网络的大脑皮层表面自动分割方法"获得授权
+- [2025.08.05]祝贺团队博士生娄熙承工作"[EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller](https://www.sciopen.com/article/10.26599/TST.2025.9010083)"被SCI二区期刊《Tsinghua Science and Technology》接收。
 - [2025.08.05]祝贺团队硕士生刘洪专利"一种脑沟异常的预测系统"获得授权
 - [2025.08.01]祝贺团队硕士生王林金专利"基于超高场7T磁共振图像合成的海马亚区半监督自动分割方法"获得授权
 - [2025.07.XX]李欣蔚老师获得重庆市重大项目课题
