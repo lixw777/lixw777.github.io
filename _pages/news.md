@@ -8,6 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
+- [2024.06.12]祝贺团队硕士生许国美工作"Subtyping Autism Spectrum Disorder with a Population Graph-Based Dual Autoencoder: Revealing Two Distinct Biotypes”被SCI二区期刊《CNS Neuroscience & Therapeutics》接收
 - [2025.08.27]李欣蔚老师获得国家自然科学基金面上项目
 - [2025.08.05]祝贺团队硕士生王林金专利"一种基于几何神经网络的大脑皮层表面自动分割方法"获得授权
 - [2025.08.05]祝贺团队硕士生刘洪专利"一种脑沟异常的预测系统"获得授权
