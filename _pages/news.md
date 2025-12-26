@@ -8,6 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
+- [2025.12.26]祝贺团队硕士生胡永波专利"一种基于多头注意力特征融合的肝图像分割方法"获得授权
+- [2025.12.25]祝贺团队硕士生朱彦屹、任相远等2个队获得2025年全国大学生创新创业能力大赛决赛 三等奖
 - [2025.11.17]祝贺团队本科生吕捷、硕士生王健麟获得2025 年全国大学生软件测试大赛国赛 三等奖
 - [2025.11.17]祝贺团队硕士生张惠城等人获得第二十二届中国研究生数学建模竞赛 三等奖
 - [2025.11.13]祝贺团队博士生娄熙承工作"EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces"获得 Brain Informatics 2025 Best Paper Award
