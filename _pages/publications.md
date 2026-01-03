@@ -13,7 +13,6 @@ Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022
 
 ## <font color=DarkBlue>Submitted Papers</font> 
 
-1. Guohong Geng (硕士生), Guomei Xu, Shuyu Li, Zhiyuan Zhu, Zhichao Liu, Yanping Liu, Xuetong Wang, **Xinwei Li<sup>\*</sup>**, "Identifying Two Biotypes of Autism Using Individual-Specific Functional Connectivity", Submitted.
 2. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Yue Zhao, Jiazhang Yang, Zhangyong Li*，"An Energy-Efficient Dual-Branch Spiking Neural Network for Epileptic Seizure Detection toward Portable Electroencephalography Applications", Submitted.
 3. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Zhangyong Li*, "Subject-Independent Deep Learning Framework for Motor Imagery Electroencephalogram Decoding in Neurorehabilitation", Submitted.
 4. Jia Wu (博士生), Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
@@ -25,7 +24,8 @@ Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022
 
 <span id="jump2026">2026</span>
 
-1. Xicheng Lou (博士生), **Xinwei Li<sup>\*</sup>**, Hongying Meng, Jun Hu, Peiyang Li, Jiazhang Yang, Zhangyong Li*, "EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller", Tsinghua Science and Technology, 2026, Accepted.
+1. Guohong Geng (硕士生), Guomei Xu, Shuyu Li, Zhiyuan Zhu, Zhichao Liu, Yanping Liu, Xuetong Wang, **Xinwei Li<sup>\*</sup>**, "Identifying Two Biotypes of Autism Using Individual-Specific Functional Connectivity", Journal of Autism and Developmental Disorders, 2026, Accepted.
+2. Xicheng Lou (博士生), **Xinwei Li<sup>\*</sup>**, Hongying Meng, Jun Hu, Peiyang Li, Jiazhang Yang, Zhangyong Li*, "EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller", Tsinghua Science and Technology, 2026, Accepted.
 3. Jing Huang(博士生), Xiaoming Jiang, **Xinwei Li**, Jia Wu, Guoquan Li, Hongying Meng, and Zhangyong Li. "Multi-scale Lipschitz Neural Fields Incorporating Frequency Decoupling for medical image registration." *Biomedical Signal Processing and Control*, 2026, 112: 108493.
 
 ### <span id="jump2025">2025</span>

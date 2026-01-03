@@ -13,7 +13,7 @@ author_profile: true
 - [2025.11.17]祝贺团队本科生吕捷、硕士生王健麟获得2025 年全国大学生软件测试大赛国赛 三等奖
 - [2025.11.17]祝贺团队硕士生张惠城等人获得第二十二届中国研究生数学建模竞赛 三等奖
 - [2025.11.13]祝贺团队博士生娄熙承工作"EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces"获得 Brain Informatics 2025 Best Paper Award
-- [2025.11.12]祝贺团队硕士生许国美工作"Subtyping Autism Spectrum Disorder with a Population Graph-Based Dual Autoencoder: Revealing Two Distinct Biotypes”被SCI二区期刊《CNS Neuroscience & Therapeutics》接收
+- [2025.11.12]祝贺团队硕士生许国美工作"[Subtyping Autism Spectrum Disorder with a Population Graph-Based Dual Autoencoder: Revealing Two Distinct Biotypes](https://onlinelibrary.wiley.com/doi/10.1002/cns.70675)”被SCI二区期刊《CNS Neuroscience & Therapeutics》接收
 - [2025.11.12]李欣蔚老师单担任Brain Informatics 2025国际会议的Workshop/Special Session Chair，并主持了The International Workshop on Neural Data Analysis for Brain-Computer Interfaces and Brain Disorders
 - [2025.08.27]李欣蔚老师获得国家自然科学基金面上项目
 - [2025.08.05]祝贺团队硕士生王林金专利"一种基于几何神经网络的大脑皮层表面自动分割方法"获得授权
