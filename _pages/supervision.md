@@ -18,7 +18,7 @@ author_profile: true
 
 有意向的同学请邮件联系: lixinwei@cqupt.edu.cn
 
-## <font color=DarkBlue>已毕业研究生信息</font>
+## <font color=DarkBlue>已毕业研究生信息（包含联合指导）</font>
 
 1. 2025届：王林金(重庆大学攻读博士学位)、李海铭(荣耀)、许国美(重庆大学附属肿瘤医院)、王安康(国新健康)
 2. 2024届：邓远阳(重庆市第十三人民医院)
