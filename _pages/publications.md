@@ -13,12 +13,13 @@ Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022
 
 ## <font color=DarkBlue>Submitted Papers</font> 
 
-2. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Yue Zhao, Jiazhang Yang, Zhangyong Li*，"An Energy-Efficient Dual-Branch Spiking Neural Network for Epileptic Seizure Detection toward Portable Electroencephalography Applications", Submitted.
-3. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Zhangyong Li*, "Subject-Independent Deep Learning Framework for Motor Imagery Electroencephalogram Decoding in Neurorehabilitation", Submitted.
-4. Jia Wu (博士生), Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
-5. Jing Huang(博士生), **Xinwei Li**, Xiaoming Jiang, Xiao Feng, Hongying Meng, Guoquan Li, Jia Wu, Zhangyong Li, "Multi-Information Aware Geometric Consistency Point Cloud Registration for Computer-assisted Orthopedic Surgery", Submitted.
-6. Xingmou Liu, Dengfeng He , Lei Li , Qing Zhang, **Xinwei Li**, Xun Sun, Gaoxing Luo, "Initiative bactericidal strategy via synergetic excitation of magnetorheological and magnetothermal on biomimetic micronano structured surfaces", Submitted.
-7. Hongzhi Kuai, Yiyu Yao, Jiming Liu, Gabriella Pasi, Jimmy Huang, Xiaohui Tao, Frank Harmelen, Philip S. Yu, Athena Vakali, Ah-Hwee Tan, Sen Su, Qinghua Zhang, Junwei Han, Weisheng Li, Zhangyong Li, Shuyin Xia, Hong Yu, Bin Xiao, Xu Zhang, Shuqiang Wang, **Xinwei Li**, Tao Jia, Shaoguo Cui, Jing Meng, Jun Hu, Yang Lv, Jianhui Chen, Jingwen Liu, Xiaofei Hu, Jie Lu, Yong Shi, Zhiming Zhu, Hongying Meng, Yukio Ohsawa, Witold Pedrycz, Nadia Bianchi-Berthouze, Georg Gottlob, Michael Wooldridge, Giorgio A. Ascoli, Andrzej Skowron, Roman Slowinski, Juan D. Velasquez, Sankar K. Pal, Guoyin Wang, Xinbo Gao, Xunming Ji, and Ning Zhong. "Web Intelligence: AI in the Connected World", Submitted.
+1. **Xinwei Li***, Guohong Geng, Xiangyuan Ren, Mingshan Du, Xiaoming Li, Lisha Zhong, Hongzhi Kuai, Yamei Luo, Zhangyong Li, "Population-Graph-Based Stratification of Autism
+   Spectrum Disorder with Individual-Specific Functional Connectomes", Submitted.
+2. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Zhangyong Li*, "Subject-Independent Deep Learning Framework for Motor Imagery Electroencephalogram Decoding in Neurorehabilitation", Submitted.
+3. Jia Wu (博士生), Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
+4. Jing Huang(博士生), **Xinwei Li**, Xiaoming Jiang, Xiao Feng, Hongying Meng, Guoquan Li, Jia Wu, Zhangyong Li, "Multi-Information Aware Geometric Consistency Point Cloud Registration for Computer-assisted Orthopedic Surgery", Submitted.
+5. Xingmou Liu, Dengfeng He , Lei Li , Qing Zhang, **Xinwei Li**, Xun Sun, Gaoxing Luo, "Initiative bactericidal strategy via synergetic excitation of magnetorheological and magnetothermal on biomimetic micronano structured surfaces", Submitted.
+6. Hongzhi Kuai, Yiyu Yao, Jiming Liu, Gabriella Pasi, Jimmy Huang, Xiaohui Tao, Frank Harmelen, Philip S. Yu, Athena Vakali, Ah-Hwee Tan, Sen Su, Qinghua Zhang, Junwei Han, Weisheng Li, Zhangyong Li, Shuyin Xia, Hong Yu, Bin Xiao, Xu Zhang, Shuqiang Wang, **Xinwei Li**, Tao Jia, Shaoguo Cui, Jing Meng, Jun Hu, Yang Lv, Jianhui Chen, Jingwen Liu, Xiaofei Hu, Jie Lu, Yong Shi, Zhiming Zhu, Hongying Meng, Yukio Ohsawa, Witold Pedrycz, Nadia Bianchi-Berthouze, Georg Gottlob, Michael Wooldridge, Giorgio A. Ascoli, Andrzej Skowron, Roman Slowinski, Juan D. Velasquez, Sankar K. Pal, Guoyin Wang, Xinbo Gao, Xunming Ji, and Ning Zhong. "Web Intelligence: AI in the Connected World", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
@@ -26,6 +27,7 @@ Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022
 
 1. Guohong Geng (硕士生), Guomei Xu, Shuyu Li, Zhiyuan Zhu, Zhichao Liu, Yanping Liu, Xuetong Wang, **Xinwei Li<sup>\*</sup>**, "Identifying Two Biotypes of Autism Using Individual-Specific Functional Connectivity", Journal of Autism and Developmental Disorders, 2026, Accepted.
 2. Jing Huang(博士生), Xiaoming Jiang, **Xinwei Li**, Jia Wu, Guoquan Li, Hongying Meng, and Zhangyong Li. "Multi-scale Lipschitz Neural Fields Incorporating Frequency Decoupling for medical image registration." *Biomedical Signal Processing and Control*, 2026, 112: 108493.
+3. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Yongmei Xu, Haohuan Kong, Jiazhang Yang, Zhangyong Li*，"An Energy-Efficient Dual-Branch Spiking Neural Network for Epileptic Seizure Detection toward Portable Electroencephalography Applications", *Biomedical Signal Processing and Control*, 2026, Accepted.
 
 ### <span id="jump2025">2025</span>
 
