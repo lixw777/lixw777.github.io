@@ -35,7 +35,7 @@ author_profile: true
 3. 多学科交叉医学科普虚拟仿真创新实验室，教育部高等学校虚拟仿真教学创新实验室项目，参与单位负责人
 4. 医学图像处理，四川省高等学校高阶课程，第七
 5. 智慧树平台课程：[数字X射线摄影系统虚拟仿真实验](https://www.zhihuishu.com/virtual_portals_h5/virtualExperiment.html#/indexPage?courseId=2000095540)，重庆邮电大学"金课"
-6. 智慧树平台课程：[医学图像处理](https://smartcourse.zhihuishu.com/course/index/1653939158986657792?mapVersion=0)
+6. 智慧树平台课程：[医学图像处理](https://wisdomh5.zhihuishu.com/course/index/1653939158986657792?courseId=1100000076&mapVersion=0)
 
 ## <font color=DarkBlue>教材/专著</font>
 
