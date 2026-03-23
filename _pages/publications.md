@@ -29,7 +29,6 @@ Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022
 ### <span id="jump2026">2026</span>
 
 1. Guohong Geng (硕士生), Guomei Xu, Shuyu Li, Zhiyuan Zhu, Zhichao Liu, Yanping Liu, Xuetong Wang, **Xinwei Li<sup>\*</sup>**, "Identifying Two Biotypes of Autism Using Individual-Specific Functional Connectivity", Journal of Autism and Developmental Disorders, 2026.
-2. Lizhen Liu<sup>#</sup>, Yanfen Wang<sup>#</sup>, Jiawei Ban<sup>#</sup>, Manshu Kang<sup>#</sup>, Yiman Li, Qingrui Li, Huarong Zhang, Ping Cai, Wei Chen, **Xinwei Li***, Xiaoming Li*. Intratumoral Tertiary Lymphoid Structures in Hepatocellular Carcinoma: Current Evidence and Future Directions – a Narrative Review. *J Hepatocell Carcinoma*. 2026;13:1-13
 3. Jing Huang(博士生), Xiaoming Jiang, **Xinwei Li**, Jia Wu, Guoquan Li, Hongying Meng, and Zhangyong Li*. "Multi-scale Lipschitz Neural Fields Incorporating Frequency Decoupling for medical image registration." *Biomedical Signal Processing and Control*, 2026, 112: 108493.
 4. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Yongmei Xu, Haohuan Kong, Jiazhang Yang, Zhangyong Li*，"An Energy-Efficient Dual-Branch Spiking Neural Network for Epileptic Seizure Detection toward Portable Electroencephalography Applications", Biomedical Signal Processing and Control, 2026, 118: 109694.
 
