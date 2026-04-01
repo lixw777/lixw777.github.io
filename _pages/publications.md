@@ -15,7 +15,7 @@ Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022
 
 1. **Xinwei Li***, Guohong Geng, Xiangyuan Ren, Mingshan Du, Xiaoming Li, Lisha Zhong, Hongzhi Kuai, Yamei Luo, Zhangyong Li, "Population-Graph-Based Stratification of Autism
    Spectrum Disorder with Individual-Specific Functional Connectomes", Submitted.
-2. 
+2. Linjin Wang (博士生),  Xiaoming Li<sup>\*</sup>, Wanmin Liu, Mingshan Du, **Xinwei Li<sup>\*</sup>**, "Microvascular Invasion and Tertiary Lymphoid Structures Are Associated with Heterogeneous Adjuvant Therapy Outcomes After Hepatectomy for Hepatocellular Carcinoma: A Retrospective Cohort Study", Submitted.
 3. Xuanqi Zhang (本科生), Jia Wu, Yue She , Xinyang Li , Hao Li , Xiaoxia Duan , Zhangyong Li, **Xinwei Li***, Yamei Luo\*, Lisha Zhong\*, Risk Stratification and Trajectory‑Guided Follow‑Up for Hypertension Governance in China, Submitted
 4. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Zhangyong Li*, "Subject-Independent Deep Learning Framework for Motor Imagery Electroencephalogram Decoding in Neurorehabilitation", Submitted.
 5. Jia Wu (博士生), Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
