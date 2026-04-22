@@ -17,7 +17,6 @@ Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022
    Spectrum Disorder with Individual-Specific Functional Connectomes", Submitted.
 2. Linjin Wang (博士生),  Xiaoming Li<sup>\*</sup>, Wanmin Liu, Mingshan Du, **Xinwei Li<sup>\*</sup>**, "Microvascular Invasion and Tertiary Lymphoid Structures Are Associated with Heterogeneous Adjuvant Therapy Outcomes After Hepatectomy for Hepatocellular Carcinoma: A Retrospective Cohort Study", Submitted.
 3. Xuanqi Zhang (本科生), Jia Wu, Yue She , Xinyang Li , Hao Li , Xiaoxia Duan , Zhangyong Li, **Xinwei Li***, Yamei Luo\*, Lisha Zhong\*, Risk Stratification and Trajectory‑Guided Follow‑Up for Hypertension Governance in China, Submitted
-4. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Zhangyong Li*, "Subject-Independent Deep Learning Framework for Motor Imagery Electroencephalogram Decoding in Neurorehabilitation", Submitted.
 5. Jia Wu (博士生), Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
 6. Jing Huang (博士生), **Xinwei Li**, Xiaoming Jiang, Xiao Feng, Hongying Meng, Guoquan Li, Jia Wu, Zhangyong Li, "Multi-Information Aware Geometric Consistency Point Cloud Registration for Computer-assisted Orthopedic Surgery", Submitted.
 7. Yanping Liu,  Dui Qin, **Xinwei Li**, Guoqiang Li, Zhichao Liu, Kena Song, Zhangyong Li, Ning Zhong, Deciphering migration dynamics of individual cells using single-cell trajectories reconstruction approach", Submitted.
@@ -34,6 +33,7 @@ Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022
 2. Lizhen Liu<sup>#</sup>, Yanfen Wang<sup>#</sup>, Jiawei Ban<sup>#</sup>, Manshu Kang<sup>#</sup>, Yiman Li, Qingrui Li, Huarong Zhang, Ping Cai, Wei Chen, **Xinwei Li<sup>\*</sup>**, Xiaoming Li<sup>\*</sup>. "Intratumoral Tertiary Lymphoid Structures in Hepatocellular Carcinoma: Current Evidence and Future Directions – a Narrative Review". J Hepatocell Carcinoma. 2026;13:1-13
 3. Jing Huang(博士生), Xiaoming Jiang, **Xinwei Li**, Jia Wu, Guoquan Li, Hongying Meng, and Zhangyong Li<sup>\*</sup>. "Multi-scale Lipschitz Neural Fields Incorporating Frequency Decoupling for medical image registration." Biomedical Signal Processing and Control, 2026, 112: 108493.
 4. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Yongmei Xu, Haohuan Kong, Jiazhang Yang, Zhangyong Li<sup>\*</sup>，"An Energy-Efficient Dual-Branch Spiking Neural Network for Epileptic Seizure Detection toward Portable Electroencephalography Applications", Biomedical Signal Processing and Control, 2026, 118: 109694.
+5. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Zhangyong Li*, "Subject-Independent Deep Learning Framework for Motor Imagery Electroencephalogram Decoding in Neurorehabilitation",  IEEE Journal of Biomedical and Health Informatics, 2026.
 
 ### <span id="jump2025">2025</span>
 
