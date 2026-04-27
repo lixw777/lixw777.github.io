@@ -15,10 +15,10 @@ author_profile: true
 
 在脑科学及医学人工智能领域主持项目/课题21项，其中国家级3项、省部级重大/重点4项、人才计划2项、省部级一般项目5项、横向4项、校级3项
 
-1. 国家自然科学基金委员会，面上项目(National Natural Science Foundation of China)，62576066，面向孤独症神经分型的脑网络信息解耦表征及深度聚类方法研究，2026/01/01-2029/12/31，国家级，主持【在研】
+1. 国家自然科学基金委员会，面上项目(National Natural Science Foundation of China)，62576066，面向孤独症神经分型的脑网络信息解耦表征及深度聚类方法研究，2026/01/01-2029/12/31，国家级，主持<font color=Darkred>【在研】</font>
 2. XXX快速评估技术，2024/10/31-2026/10/30，国家级，主持<font color=Darkred>【在研】</font>
 3. 国家自然科学基金委员会，青年科学基金项目(National Natural Science Foundation of China)，62106032，面向轻度认知障碍准确辅诊的个体形态学脑网络构建方法研究，2022/01/01-2024/12/31，国家级，主持
-4. 重庆市科学技术局，技术创新与应用发展重大专项(Science and Technology Innovation Key R&D Program of Chongqing，需第一标注)，CSTB2023TIAD-STX0008，骨髓细胞图像识别医疗器械研发，2024/01/01-2026/12/31，省部级，参与单位负责人  【在研】
+4. 重庆市科学技术局，技术创新与应用发展重大专项(Science and Technology Innovation Key R&D Program of Chongqing，需第一标注)，CSTB2023TIAD-STX0008，骨髓细胞图像识别医疗器械研发，2024/01/01-2026/12/31，省部级，参与单位负责人 <font color=Darkred>【在研】</font>
 5. 重庆市科学技术局，XX重大项目， ⽹络智能3.0驱动的XXX智能健康XXX，2025/01/01-2029/12/31，省部级，课题负责人<font color=Darkred>【在研】</font>
 6. 重庆市科学技术局，技术创新与应用发展重点项目(Chongqing technology innovation and application development key project)，cstc2021jscx-gksbX0060，大数据人工智能肝移植用药指导系统的研发与应用，2022/01/01-2024/12/31，省部级，参与单位负责人
 7. 重庆市教育委员会，科学技术研究计划重点项目(Key project of Science and Technology Research Program of Chongqing Municipal Education Commission)，KJZD-K202400602，基于3T-7T配对磁共振影像的大脑海马亚区自动分割方法研究，2024/10/01-2027/09/30，省部级，主持 <font color=Darkred>【在研】</font>
