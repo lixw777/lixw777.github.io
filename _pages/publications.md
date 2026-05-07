@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-发表论文共计53篇，其中SCI论文37篇，第一/通讯作者29篇（还处于数篇数阶段，方便自我评估，见笑😅）。相关研究成果得到了国内外同行的广泛关注，被Nature Reviews Neuroscience、Trends in Neurosciences等国际顶级杂志引用并得到并得到院士Karl Friston教授、院士Edward Bullmore教授等多位知名学者的正面评价。
+发表论文共计56篇，其中SCI论文41篇，第一/通讯作者30篇（还处于数篇数阶段，方便自我评估，见笑😅）。相关研究成果得到了国内外同行的广泛关注，被Nature Reviews Neuroscience、Trends in Neurosciences等国际顶级杂志引用并得到并得到院士Karl Friston教授、院士Edward Bullmore教授等多位知名学者的正面评价。
 
 Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [2020](#jump2020), [2019](#jump2019), [2018](#jump2018), [2016](#jump2016), [2015](#jump2015), [2013](#jump2013)
 
@@ -23,7 +23,8 @@ Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022
 8. Yanping Liu, Yulin Chen, **Xinwei Li**, Dui Qin, Zhichao Liu, Kena Song, Wei Wang, Zhangyong Li, "Fractal analysis of time-varying dynamic modes in single-cell migration regulated by complex intra- and extracellular cues", Submitted.
 9. Meiling Yu, Can Teng, Defeng Li, **Xinwei Li**; Jiaqi Yuan; Li Wang; Yanyi Zhu; Peilu Yu; Xing Cao; Nana Bao; Xue Chen; Xi Kang; Guohui Jiang, Faxiang Wang, "Loss of SND1 attenuates seizure severity and reshapes brain-wide functional networks in epilepsy", Submitted.
 10. Xingmou Liu, Dengfeng He , Jiangfeng Li, Xuanyi Chen, Lei Li , Qing Zhang, **Xinwei Li**, Xun Sun, Gaoxing Luo, "An Active, On-Demand Mechano-Thermal Microenvironment Regulator Based on Magneto-Synergetic Surfaces for Eradicating Drug-Resistant Biofilms and Accelerating Wound Healing", Submitted.
-11. Hongzhi Kuai, Yiyu Yao, Jiming Liu, Gabriella Pasi, Jimmy Huang, Xiaohui Tao, Frank Harmelen, Philip S. Yu, Athena Vakali, Ah-Hwee Tan, Sen Su, Qinghua Zhang, Junwei Han, Weisheng Li, Zhangyong Li, Shuyin Xia, Hong Yu, Bin Xiao, Xu Zhang, Shuqiang Wang, **Xinwei Li**, Tao Jia, Shaoguo Cui, Jing Meng, Jun Hu, Yang Lv, Jianhui Chen, Jingwen Liu, Xiaofei Hu, Jie Lu, Yong Shi, Zhiming Zhu, Hongying Meng, Yukio Ohsawa, Witold Pedrycz, Nadia Bianchi-Berthouze, Georg Gottlob, Michael Wooldridge, Giorgio A. Ascoli, Andrzej Skowron, Roman Slowinski, Juan D. Velasquez, Sankar K. Pal, Guoyin Wang, Xinbo Gao, Xunming Ji, and Ning Zhong. "Web Intelligence: AI in the Connected World", Submitted.
+10. Hongzhi Kuai, Yiyu Yao, Jiming Liu, Gabriella Pasi, Jimmy Huang, Xiaohui Tao, Frank Harmelen, Philip S. Yu, Athena Vakali, Ah-Hwee Tan, Sen Su, Qinghua Zhang, Junwei Han, Weisheng Li, Zhangyong Li, Shuyin Xia, Hong Yu, Bin Xiao, Xu Zhang, Shuqiang Wang, **Xinwei Li**, Tao Jia, Shaoguo Cui, Jing Meng, Jun Hu, Yang Lv, Jianhui Chen, Jingwen Liu, Xiaofei Hu, Jie Lu, Yong Shi, Zhiming Zhu, Hongying Meng, Yukio Ohsawa, Witold Pedrycz, Nadia Bianchi-Berthouze, Georg Gottlob, Michael Wooldridge, Giorgio A. Ascoli, Andrzej Skowron, Roman Slowinski, Juan D. Velasquez, Sankar K. Pal, Guoyin Wang, Xinbo Gao, Xunming Ji, and Ning Zhong. "Web Intelligence: AI in the Connected World", Submitted.
+11. Yuhan Zhang, Fengwei Yu, Meng Zeng, Yan Li, Li Zeng, Chen Liu, Ping Cai, **Xinwei Li**, Wei Chen, Mingshan Du, "Prenatal MRI Quantitative Analysis of the Nonlinear Morphological Changes of the Choroid Plexus During the Progression of Fetal Ventriculomegaly", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
