@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-发表论文共计56篇，其中SCI论文41篇，第一/通讯作者30篇（还处于数篇数阶段，方便自我评估，见笑😅）。相关研究成果得到了国内外同行的广泛关注，被Nature Reviews Neuroscience、Trends in Neurosciences等国际顶级杂志引用并得到并得到院士Karl Friston教授、院士Edward Bullmore教授等多位知名学者的正面评价。
+发表论文共计57篇，其中SCI论文41篇，第一/通讯作者30篇（还处于数篇数阶段，方便自我评估，见笑😅）。相关研究成果得到了国内外同行的广泛关注，被Nature Reviews Neuroscience、Trends in Neurosciences等国际顶级杂志引用并得到并得到院士Karl Friston教授、院士Edward Bullmore教授等多位知名学者的正面评价。
 
 Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022](#jump2022), [2021](#jump2021), [2020](#jump2020), [2019](#jump2019), [2018](#jump2018), [2016](#jump2016), [2015](#jump2015), [2013](#jump2013)
 
@@ -35,6 +35,7 @@ Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022
 3. Jing Huang(博士生), Xiaoming Jiang, **Xinwei Li**, Jia Wu, Guoquan Li, Hongying Meng, and Zhangyong Li<sup>\*</sup>. "Multi-scale Lipschitz Neural Fields Incorporating Frequency Decoupling for medical image registration." Biomedical Signal Processing and Control, 2026, 112: 108493.
 4. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Yongmei Xu, Haohuan Kong, Jiazhang Yang, Zhangyong Li<sup>\*</sup>，"An Energy-Efficient Dual-Branch Spiking Neural Network for Epileptic Seizure Detection toward Portable Electroencephalography Applications", Biomedical Signal Processing and Control, 2026, 118: 109694.
 5. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Zhangyong Li*, "Subject-Independent Deep Learning Framework for Motor Imagery Electroencephalogram Decoding in Neurorehabilitation",  IEEE Journal of Biomedical and Health Informatics, 2026.
+6. 余抒, **李欣蔚**, 牛健行, 府伟灵, 人工智能赋能多模态数据整合精准诊断阿尔茨海默病, 中华检验医学杂志, 2026, 49(5): 514-520.
 
 ### <span id="jump2025">2025</span>
 
