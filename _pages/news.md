@@ -8,7 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-- [2026.05.22]李欣蔚老师作为青年科技工作者代表，被重庆科技报采访[《渝州追光破壁垒 医工融合启新程》](https://www.xepaper.com/cqkjb/h5/html5/2026-05/21/content_104372_19552632.htm?curr=)
+- [2026.05.XX]李欣蔚老师在the 5th International Conference on Biomedical and Intelligent Systems上做邀请报告"Brain Network-Based Subtyping and Computer-Aided Diagnosis of Neuropsychiatric Disorders"
+- [2026.05.XX]李欣蔚老师在重庆市医药生物技术协会血液肿瘤智能诊疗专业委员会2026年学术年会做邀请报告"骨髓/血细胞图像识别的模型研究与应用"
+- [2026.05.22]李欣蔚老师作为青年科技工作者代表，被重庆科技报采访[《渝州追光破壁垒 医工融合启新程》](https://mp.weixin.qq.com/s/SYOECvlZLNbOM7nExG1j5A)
 - [2026.04.21] 祝贺团队博士生李晓明执笔的"可切除肝细胞癌中瘤内三级淋巴结构的临床应用专家共识（2026版）"发布，李欣蔚老师作为编审委员会成员参与共识制定工作
 - [2026.03.28]李欣蔚老师被聘为重庆市神经科学学会理事
 - [2026.03.15]李欣蔚老师被聘为中国医药教育协会智能医学专业委员会委员
