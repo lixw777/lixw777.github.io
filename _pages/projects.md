@@ -20,7 +20,7 @@ author_profile: true
 3. 国家自然科学基金委员会，青年科学基金项目(National Natural Science Foundation of China)，62106032，面向轻度认知障碍准确辅诊的个体形态学脑网络构建方法研究，2022/01/01-2024/12/31，国家级，主持
 4. 重庆市科学技术局，技术创新与应用发展重大专项(Science and Technology Innovation Key R&D Program of Chongqing，需第一标注)，CSTB2023TIAD-STX0008，骨髓细胞图像识别医疗器械研发，2024/01/01-2026/12/31，省部级，参与单位负责人 <font color=Darkred>【在研】</font>
 5. 重庆市科学技术局，XX重大项目， ⽹络智能3.0驱动的XXX智能健康XXX，2025/01/01-2029/12/31，省部级，课题负责人<font color=Darkred>【在研】</font>
-6. 重庆市经济和信息化委员会等五部门联合，重庆市智慧医疗装备医工融合创新项目，基于形态学量化特征的血液肿瘤多模态诊疗平台的研发及应用，省部级，2025/06/01-2028/05/31，参与单位负责人<font color=Darkred>【在研】</font>
+6. 重庆市经济和信息化委员会等五部门联合，重庆市智慧医疗装备医工融合创新项目，基于形态学量化特征的血液肿瘤多模态诊疗平台的研发及应用，省部级，2026/01/01-2028/12/31，参与单位负责人<font color=Darkred>【在研】</font>
 7. 重庆市科学技术局，技术创新与应用发展重点项目(Chongqing technology innovation and application development key project)，cstc2021jscx-gksbX0060，大数据人工智能肝移植用药指导系统的研发与应用，2022/01/01-2024/12/31，省部级，参与单位负责人
 8. 重庆市教育委员会，科学技术研究计划重点项目(Key project of Science and Technology Research Program of Chongqing Municipal Education Commission)，KJZD-K202400602，基于3T-7T配对磁共振影像的大脑海马亚区自动分割方法研究，2024/10/01-2027/09/30，省部级，主持 <font color=Darkred>【在研】</font>
 9. 重庆市科学技术协会，青年科技人才托举工程，2026/01/01-2027/12/31，省部级人才计划，入选<font color=Darkred>【在研】</font>
