@@ -10,6 +10,7 @@ author_profile: true
 
 - [2026.07.02]祝贺团队硕士生屈幼熙论文"EEG-DBNet: A Dual-Branch Framework for Temporal-Spectral Representation Learning of Motor Imagery Electroencephalography"被《Brain Informatics》接收
 - [2026.06.12]李欣蔚老师作为参与单位负责人获批重庆市智慧医疗装备医工融合创新项目
+- [2026.06.XX]祝贺团队硕士生刘思园等获得Mathcup数学应用挑战赛 国赛二等奖
 - [2026.05.29]祝贺团队硕士生王健麟专利"一种用于大功率实验室的分布式电源控制系统"获得授权
 - [2026.05.XX]李欣蔚老师在the 5th International Conference on Biomedical and Intelligent Systems上做邀请报告：Brain Network-Based Subtyping and Computer-Aided Diagnosis of Neuropsychiatric Disorders
 - [2026.05.XX]李欣蔚老师在重庆市医药生物技术协会血液肿瘤智能诊疗专业委员会2026年学术年会做邀请报告：骨髓/血细胞图像识别的模型研究与应用
