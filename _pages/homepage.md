@@ -56,8 +56,7 @@ author_profile: true
 - 重庆市生命信息与支持研究生导师团队骨干
 - 重庆市研究生课程思政教学名师/示范教学团队骨干
 - 北京航空航天大学重庆校友会副秘书长
-- 重庆邮电大学文峰青年百人
 
-
+  
 
 💼  <a href="https://faculty.cqupt.edu.cn/lixinwei/zh_CN/index.htm" target="_blank" >重邮官方教师个人主页</a> 
