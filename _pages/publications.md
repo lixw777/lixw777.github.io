@@ -24,20 +24,20 @@ Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022
 10. Meiling Yu (硕士生), Can Teng, Defeng Li, **Xinwei Li**; Jiaqi Yuan; Li Wang; Yanyi Zhu; Peilu Yu; Xing Cao; Nana Bao; Xue Chen; Xi Kang; Guohui Jiang, Faxiang Wang, "Loss of SND1 attenuates seizure severity and reshapes brain-wide functional networks in epilepsy", Submitted.
 11. Xingmou Liu, Dengfeng He , Jiangfeng Li, Xuanyi Chen, Lei Li , Qing Zhang, **Xinwei Li**, Xun Sun, Gaoxing Luo, "An Active, On-Demand Mechano-Thermal Microenvironment Regulator Based on Magneto-Synergetic Surfaces for Eradicating Drug-Resistant Biofilms and Accelerating Wound Healing", Submitted.
 12. Hongzhi Kuai, Yiyu Yao, Jiming Liu, Gabriella Pasi, Jimmy Huang, Xiaohui Tao, Frank Harmelen, Philip S. Yu, Athena Vakali, Ah-Hwee Tan, Sen Su, Qinghua Zhang, Junwei Han, Weisheng Li, Zhangyong Li, Shuyin Xia, Hong Yu, Bin Xiao, Xu Zhang, Shuqiang Wang, **Xinwei Li**, Tao Jia, Shaoguo Cui, Jing Meng, Jun Hu, Yang Lv, Jianhui Chen, Jingwen Liu, Xiaofei Hu, Jie Lu, Yong Shi, Zhiming Zhu, Hongying Meng, Yukio Ohsawa, Witold Pedrycz, Nadia Bianchi-Berthouze, Georg Gottlob, Michael Wooldridge, Giorgio A. Ascoli, Andrzej Skowron, Roman Slowinski, Juan D. Velasquez, Sankar K. Pal, Guoyin Wang, Xinbo Gao, Xunming Ji, and Ning Zhong. "Web Intelligence: AI in the Connected World", Submitted.
-13. Yuhan Zhang, Fengwei Yu, Meng Zeng, Yan Li, Li Zeng, Chen Liu, Ping Cai, **Xinwei Li**, Wei Chen, Mingshan Du, "Prenatal MRI Quantitative Analysis of the Nonlinear Morphological Changes of the Choroid Plexus During the Progression of Fetal Ventriculomegaly", Submitted.
 
 ## <font color=DarkBlue>Published Papers</font>
 
 ### <span id="jump2026">2026</span>
 
-1. Youxi Qu (硕士生), Xicheng Lou<sup>\*</sup>, Hongying Meng, Zhangyong Li, Jianlin Wang, Kunpeng Mao, **Xinwei Li<sup>\*</sup>**, "EEG-DBNet: A Dual-Branch Framework for Temporal-Spectral Representation Learning of Motor Imagery Electroencephalography", Brain Informatics, 2026. Accepted.
+1. Youxi Qu (硕士生), Xicheng Lou<sup>\*</sup>, Hongying Meng, Zhangyong Li, Jianlin Wang, Kunpeng Mao, **Xinwei Li<sup>\*</sup>**, "EEG-DBNet: A Dual-Branch Framework for Temporal-Spectral Representation Learning of Motor Imagery Electroencephalography", Brain Informatics, 2026. 
 2. Guohong Geng (硕士生), Guomei Xu, Shuyu Li, Zhiyuan Zhu, Zhichao Liu, Yanping Liu, Xuetong Wang, **Xinwei Li<sup>\*</sup>**, "Identifying Two Biotypes of Autism Using Individual-Specific Functional Connectivity", Journal of Autism and Developmental Disorders, 2026.
 3. Xicheng Lou (博士生), **Xinwei Li<sup>\*</sup>**, Hongying Meng, Jun Hu, Peiyang Li, Jiazhang Yang, Zhangyong Li*, "EEG-GANet: Simulating Electroencephalogram Data to Address Sample Imbalance in P300 Speller", Tsinghua Science and Technology, 2026, 31: 6.
 4. Lizhen Liu<sup>#</sup>, Yanfen Wang<sup>#</sup>, Jiawei Ban<sup>#</sup>, Manshu Kang<sup>#</sup>, Yiman Li, Qingrui Li, Huarong Zhang, Ping Cai, Wei Chen, **Xinwei Li<sup>\*</sup>**, Xiaoming Li<sup>\*</sup>. "Intratumoral Tertiary Lymphoid Structures in Hepatocellular Carcinoma: Current Evidence and Future Directions – a Narrative Review". J Hepatocell Carcinoma. 2026;13:1-13
 5. Jing Huang(博士生), Xiaoming Jiang, **Xinwei Li**, Jia Wu, Guoquan Li, Hongying Meng, and Zhangyong Li<sup>\*</sup>. "Multi-scale Lipschitz Neural Fields Incorporating Frequency Decoupling for medical image registration." Biomedical Signal Processing and Control, 2026, 112: 108493.
 6. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Jun Hu, Yongmei Xu, Haohuan Kong, Jiazhang Yang, Zhangyong Li<sup>\*</sup>，"An Energy-Efficient Dual-Branch Spiking Neural Network for Epileptic Seizure Detection toward Portable Electroencephalography Applications", Biomedical Signal Processing and Control, 2026, 118: 109694.
 7. Xicheng Lou (博士生), **Xinwei Li**, Hongying Meng, Zhangyong Li*, "Subject-Independent Deep Learning Framework for Motor Imagery Electroencephalogram Decoding in Neurorehabilitation",  IEEE Journal of Biomedical and Health Informatics, 2026.
-8. 余抒, **李欣蔚**, 牛健行, 府伟灵, 人工智能赋能多模态数据整合精准诊断阿尔茨海默病, 中华检验医学杂志, 2026, 49(5): 514-520.
+8. Yuhan Zhang, Fengwei Yu, Meng Zeng, Yan Li, Li Zeng, Chen Liu, Ping Cai, **Xinwei Li**, Wei Chen, Mingshan Du, "Prenatal MRI Quantitative Analysis of the Nonlinear Morphological Changes of the Choroid Plexus During the Progression of Fetal Ventriculomegaly", BMC Medical Imaging, 2026.
+9. 余抒, **李欣蔚**, 牛健行, 府伟灵, 人工智能赋能多模态数据整合精准诊断阿尔茨海默病, 中华检验医学杂志, 2026, 49(5): 514-520.
 
 ### <span id="jump2025">2025</span>
 
