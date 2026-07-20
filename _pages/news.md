@@ -8,6 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
+- [2026.7.20]李欣蔚老师牵头课程《智能医学图像处理》获重庆市"人工智能+"重点建设课程
 - [2026.07.02]祝贺团队硕士生屈幼熙论文"EEG-DBNet: A Dual-Branch Framework for Temporal-Spectral Representation Learning of Motor Imagery Electroencephalography"被《Brain Informatics》接收
 - [2026.06.12]李欣蔚老师作为参与单位负责人获批重庆市智慧医疗装备医工融合创新项目
 - [2026.06.XX]祝贺团队硕士生刘思园等获得Mathcup数学应用挑战赛 国赛二等奖
