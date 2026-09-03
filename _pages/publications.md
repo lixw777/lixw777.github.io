@@ -17,7 +17,7 @@ Publication Years: [2025](#jump2025) [2024](#jump2024), [2023](#jump2023), [2022
 2. **Xinwei Li*** , Jiangtao He , Huicheng Zhang , Wuchen Yang , Qinhe Wang , Xiangui Peng , Linjin Wang, Xi Zhang, Zhangyong Li, "A Category-Aware Coarse-to-Fine Expert Learning Framework for Peripheral Blood Cell Recognition", Submitted.
 3. Linjin Wang (博士生),  Xiaoming Li<sup>\*</sup>, Wanmin Liu, Mingshan Du, **Xinwei Li<sup>\*</sup>**, "Microvascular Invasion and Tertiary Lymphoid Structures Are Associated with Heterogeneous Adjuvant Therapy Outcomes After Hepatectomy for Hepatocellular Carcinoma: A Retrospective Cohort Study", Submitted.
 5. Xuanqi Zhang (本科生), Jia Wu, Yue She , Xinyang Li , Hao Li , Xiaoxia Duan , Zhangyong Li, **Xinwei Li***, Yamei Luo\*, Lisha Zhong\*, "Risk Stratification and Trajectory‑Guided Follow‑Up for Hypertension Governance in China", Submitted
-5. Yeheya Aizezi (硕士生), Jialin Zhou, **Xinwei Li**, Xiyuan Zhou, "Heterogeneous Graph Multimodal Network for Pathologic Myopia Classification", Submitted.
+5. Yeheya Aizezi (硕士生), Jialin Zhou, **Xinwei Li<sup>\*</sup>**, Xiyuan Zhou<sup>\*</sup>, "Heterogeneous Graph Multimodal Network for Pathologic Myopia Classification", Submitted.
 6. Jia Wu (博士生), Xiaoming Jiang, Jinzhao Lin, **Xinwei Li**, Hongying Meng, Zhangyong Li, "Artifact-Aware Diffusion Model for Sparse-View CT Reconstruction", Submitted.
 7. Jing Huang (博士生), **Xinwei Li**, Xiaoming Jiang, Xiao Feng, Hongying Meng, Guoquan Li, Jia Wu, Zhangyong Li, "Multi-Information Aware Geometric Consistency Point Cloud Registration for Computer-assisted Orthopedic Surgery", Submitted.
 8. Weijian Tao (博士生), **Xinwei Li**, Xi Li,  Zhangyong Li, "Topology-Aware Distance-Field Network for Cerebral Vessel Segmentation in 3D TOF-MRA", Submitted.
