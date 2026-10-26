@@ -40,40 +40,22 @@ author_profile: true
 ## <font color=DarkBlue>学术/社会兼职</font>
 
 - 中国老年保健协会心脑血管疾病防治新技术应用分会常务委员
-
 - 中国医药教育协会智能医学专业委员会委员
-
 - 重庆市医药生物技术协会血液肿瘤智能诊疗专业委员会副主任委员
-
 - 重庆市生物医学工程学会理事
-
 - 重庆市神经科学学会理事
-
 - 重庆市数字医学学会理事
-
 - 医学图像计算青年研讨会（MICS）委员会委员
-
 - 国家自然基金委员会函评专家
-
 - 全国研究生教育评估监测专家库专家
-
 - Brain Informatics 2025 国际会议 Workshop Chair
-
 - Medical Engineering and Intelligent Image Processing 2027 国际会议 Organizing Committee Chair
-
 - Biomedical Engineering Communications, Advanced Biotechnology期刊青年编委
-
 - Neuroimage, IEEE JBHI, KBS等多个国际知名期刊审稿人
-
 - 企业医疗器械研发技术指导专家
-
 - 昭信教育研究院专家
-
 - 重庆市生命信息与支持研究生导师团队骨干
-
 - 重庆市研究生课程思政教学名师/示范教学团队骨干
-
 - 北京航空航天大学重庆校友会副秘书长
-
 
 💼  <a href="https://faculty.cqupt.edu.cn/lixinwei/zh_CN/index.htm" target="_blank" >重邮官方教师个人主页</a> 
