@@ -63,7 +63,7 @@ author_profile: true
 
 - Biomedical Engineering Communications, Advanced Biotechnology期刊青年编委
 
-- Neuroimage, IEEE Journal of Biomedical and Health Informatics, Knowledge-Based Systems等多个国际知名期刊审稿人
+- Neuroimage, IEEE JBHI, KBS等多个国际知名期刊审稿人
 
 - 企业医疗器械研发技术指导专家
 
