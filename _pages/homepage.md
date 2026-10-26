@@ -75,6 +75,5 @@ author_profile: true
 
 - 北京航空航天大学重庆校友会副秘书长
 
-  
 
 💼  <a href="https://faculty.cqupt.edu.cn/lixinwei/zh_CN/index.htm" target="_blank" >重邮官方教师个人主页</a> 
